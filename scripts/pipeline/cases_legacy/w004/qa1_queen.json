@@ -1,0 +1,49 @@
+{
+  "group": "qa1",
+  "character": "queen",
+  "world": "w004",
+  "design_id": "legacy (week 10-11, before the JSON pipeline)",
+  "level": "L1",
+  "style_type": "Q版anime",
+  "ref_head": "qa1_queen_ref_head.png",
+  "ref_head_candidates": [
+    "qa1_queen_ref_head.png",
+    "queen_ref_head.png",
+    "p2_w004_du035_img02_head.png",
+    "p2_w004_du035_img02.png"
+  ],
+  "image_glob": {
+    "ref": "results/generated/qa1_queen_files/qa1_{tag}_queen_ref_seed*.png",
+    "noref": "results/generated/qa1_queen_files/qa1_{tag}_queen_noref_seed*.png"
+  },
+  "head_text": "a head.",
+  "content": {
+    "prompt": "The Queen of Hearts, cute chibi royalty, 2.5-head chibi queen with crown, red and black gown, crown, scepter, bright red, black, gold, hands on hips, glaring, commanding point, heart, playing cards, crown, scepter, centered, plain solid background, 1:1 square composition, high quality, no text, no watermark"
+  },
+  "negative_original": "",
+  "templates": {
+    "sd": "{prompt}",
+    "flux_ref": "{prompt}",
+    "flux_noref": "{prompt}"
+  },
+  "checklist_must": [
+    "red hair (only from the reference: the prompt names no hair colour)",
+    "a crown",
+    "red and black gown",
+    "chibi proportions",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "hands on hips",
+    "glaring",
+    "commanding pointing gesture",
+    "a scepter",
+    "heart or playing-card symbols",
+    "plain solid background",
+    "gold accents"
+  ],
+  "notes": [
+    "VLM-ONLY legacy case: images were generated with the week 10-11 scripts; kept in cases_legacy/ so generate_all.py never regenerates them.",
+    "Checklist translated from the scoring workbook (v1)."
+  ]
+}

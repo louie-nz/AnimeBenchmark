@@ -1,0 +1,7 @@
+﻿file,group,model,ref_cond,seed,head_found,head_score,head_box,clip_i,dino_i
+du003_img01_anythingv5_ipadapter_b16_alice_seed123.png,b16,anythingv5_ipadapter,ref,123,1,0.382,"[193, 46, 389, 233]",0.6739,0.7127
+du003_img01_anythingv5_ipadapter_b16_alice_seed42.png,b16,anythingv5_ipadapter,ref,42,1,0.538,"[175, 27, 377, 219]",0.6521,0.5626
+du003_img01_anythingv5_ipadapter_b16_alice_seed777.png,b16,anythingv5_ipadapter,ref,777,1,0.467,"[174, 33, 429, 353]",0.6445,0.6578
+du003_img01_flux2klein4b_b16_alice_seed123.png,b16,flux2klein4b,ref,123,1,0.498,"[409, 92, 610, 295]",0.68,0.4431
+du003_img01_flux2klein4b_b16_alice_seed42.png,b16,flux2klein4b,ref,42,1,0.489,"[414, 51, 625, 283]",0.6614,0.4747
+du003_img01_flux2klein4b_b16_alice_seed777.png,b16,flux2klein4b,ref,777,1,0.432,"[425, 59, 621, 266]",0.7236,0.4479

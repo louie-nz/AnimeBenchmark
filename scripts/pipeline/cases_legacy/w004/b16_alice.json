@@ -1,0 +1,50 @@
+{
+  "group": "b16",
+  "character": "alice",
+  "world": "w004",
+  "design_id": "legacy (week 10-11, before the JSON pipeline)",
+  "level": "L2",
+  "style_type": "cartoon",
+  "ref_head": "REF_p2_w004_du001_img02_head.png",
+  "ref_head_candidates": [
+    "REF_p2_w004_du001_img02_head.png",
+    "p2_w004_du001_img02_head.png",
+    "al1_alice_ref_head.png",
+    "REF_al1_alice_ref_head.png"
+  ],
+  "image_glob": {
+    "ref": "results/generated/du003_img01_{tag}_b16_alice_seed*.png",
+    "noref": null
+  },
+  "head_text": "a head.",
+  "content": {
+    "prompt": "Alice in Wonderland battle armor concept, young girl with blonde braid, wearing a white hardened leather corset with spade and heart emboss, blue skirt armor made of layered playing cards, holding a thick law book, pointing forward, with righteous anger, court background with card soldier silhouettes, heroic perspective, art nouveau style, square composition"
+  },
+  "negative_original": "",
+  "templates": {
+    "sd": "{prompt}",
+    "flux_ref": "{prompt}",
+    "flux_noref": "{prompt}"
+  },
+  "checklist_must": [
+    "Alice's face (reference)",
+    "white hardened leather corset",
+    "blue skirt armor made of layered playing cards (cards are part of the armor, not floating)",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "blonde braid",
+    "spade and heart emboss",
+    "a thick law book",
+    "pointing forward",
+    "righteous anger",
+    "courtroom background",
+    "card soldier silhouettes",
+    "heroic perspective",
+    "art nouveau style"
+  ],
+  "notes": [
+    "VLM-ONLY legacy case: images were generated with the week 10-11 scripts; kept in cases_legacy/ so generate_all.py never regenerates them.",
+    "Checklist translated from the scoring workbook (v1)."
+  ]
+}

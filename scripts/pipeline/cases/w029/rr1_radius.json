@@ -1,0 +1,48 @@
+{
+  "group": "rr1",
+  "character": "radius",
+  "world": "w029",
+  "design_id": "p2_w029_du039",
+  "level": "L1",
+  "character_axis": "non-human (robot)",
+  "style_type": "Q版anime",
+  "ref_head": "rur_radius_ref_head.png",
+  "ref_source": "p2_w029_du039_img02.png (standing with flag; smooth silver dome, blue eyes, brass gear ear)",
+  "target_image": "p2_w029_du039_img01.png (shouting, fist clenched, commanding point)",
+  "head_text": "a robot head.",
+  "content": {
+    "theme": "Radius, cute chibi robot",
+    "subject": "2.5-head chibi mechanical humanoid",
+    "costume": "metal shell, uniform armor, glowing joints",
+    "colors": "metallic silver, cold blue, black iron, warning red",
+    "action": "clenched fist, commanding point, glowing eyes, shouting",
+    "props": "gear, glowing joints, flag, ruined factory, broken formula",
+    "composition": "centered, plain solid background, 1:1 square composition",
+    "quality": "high quality, no text, no watermark"
+  },
+  "negative_original": "watermark, text, signature, realistic photo, official screenshot, extra fingers, deformed hands, low resolution, messy background, blurry",
+  "templates": {
+    "sd": "{theme}, {subject}, {costume}, {colors}, {action}, {props}, {composition}, {quality}",
+    "flux_ref": "Keep this robot's face and art style exactly the same as in the image. It is {theme}, a {subject}. Show its full body, zoomed out. Body: {costume}. Colors: {colors}. It is {action}. Props and setting: {props}. Composition: {composition}. {quality}.",
+    "flux_noref": "{theme}, a {subject}. Full body, zoomed out. Body: {costume}. Colors: {colors}. It is {action}. Props and setting: {props}. Composition: {composition}. {quality}."
+  },
+  "checklist_must": [
+    "a robot, not a human in costume",
+    "silver dome head, glowing blue eyes, brass gear at the ear (reference)",
+    "clenched fist / commanding point",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "shouting",
+    "glowing joints",
+    "flag",
+    "warning-red accents",
+    "ruined factory or broken formula"
+  ],
+  "notes": [
+    "Prompt verbatim; it asks for both 'ruined factory' and 'plain solid background' (conflict in the source).",
+    "du040 has the same positive prompt as du039 (dataset duplication).",
+    "Style is chibi game/mecha art with a semi-3D render; labelled Q-anime with this note.",
+    "A small piece of background debris next to the head was painted out of the reference."
+  ]
+}

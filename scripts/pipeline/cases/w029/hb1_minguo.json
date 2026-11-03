@@ -1,0 +1,51 @@
+{
+  "group": "hb1",
+  "character": "minguo",
+  "world": "w029",
+  "design_id": "(none: new character)",
+  "level": "TaskB",
+  "character_axis": "new character",
+  "style_type": "Q版anime",
+  "ref_head": "tb1_minguo_ref_head.png",
+  "ref_source": "Republic-era schoolgirl head (same as TB1 / ob1 / cb1 / vb1)",
+  "target_image": "(none: new character)",
+  "head_text": "a head.",
+  "content": {
+    "subject": "young Chinese girl with black twin braids and straight bangs",
+    "role": "a visitor touring the Rossum robot factory",
+    "own_outfit": "her Republic-era schoolgirl outfit, light blue high-collared blouse and long black skirt",
+    "world_items": "holding a Humanity League leaflet",
+    "setting": "factory hall with rows of identical robot workers on an assembly line",
+    "style": "cute chibi style",
+    "composition": "square composition"
+  },
+  "negative_original": "watermark, text, realistic photo, extra fingers, deformed hands, low resolution",
+  "templates": {
+    "sd": "{subject}, {role}, wearing {own_outfit}, {world_items}, {setting}, {style}, {composition}",
+    "flux_ref": "Keep this girl's face and art style exactly the same as in the image. She is a {subject}, {role}. Show her full body, zoomed out. She is wearing {own_outfit}, {world_items}. Scene: {setting}. Style: {style}, {composition}.",
+    "flux_noref": "A {subject}, {role}. Full body, zoomed out. She is wearing {own_outfit}, {world_items}. Scene: {setting}. Style: {style}, {composition}."
+  },
+  "checklist_must": [
+    "identity kept: black twin braids, straight bangs, face (reference)",
+    "Republic-era outfit kept: high-collared light blue blouse + long dark skirt",
+    "factory with rows of identical robot workers",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "leaflet",
+    "assembly line",
+    "chibi proportions",
+    "overall coherence 0-4: she looks like she belongs in R.U.R."
+  ],
+  "checklist_penalty": [
+    "replacing an existing character: Helena's cream suit, blue scarf and pearls",
+    "turning into a robot (metal skin, glowing eyes)",
+    "cultural intrusion: qipao, Chinese architecture or lattice windows",
+    "losing the new identity: hair or face drifting to a Western default"
+  ],
+  "notes": [
+    "Task B prompt authored with the Oz template: new identity + unnamed world-native role + canon world symbols + canon setting.",
+    "Canon (R.U.R., 1920): visitors are shown Rossum's factory on its island; Helena comes as a representative of the Humanity League; robots are mass-produced identical workers.",
+    "Role is not a named character, so the girl does not replace Helena."
+  ]
+}

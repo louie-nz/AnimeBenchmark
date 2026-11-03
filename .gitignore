@@ -361,3 +361,37 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# ===== AnimeBenchmark：只提交白名单里的内容 =====
+# 先忽略根目录下的所有东西
+/*
+# 再放行需要的文件和文件夹
+!/.gitignore
+!/.gitattributes
+!/ReadMe.md
+!/compute_metrics.py
+!/scripts/
+!/results/
+!/ProjectProposal/
+
+# 放行的文件夹里也不要大文件和图片
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.safetensors
+*.bin
+*.pt
+*.xlsx
+*.pptx
+results/generated/
+results/**/crops/
+__pycache__/
+.env
+
+# scripts 下的旧版本、补丁包和图片文件夹
+scripts/*
+!scripts/pipeline/
+scripts/pipeline/__pycache__/
+scripts/pipeline/*_backup.py

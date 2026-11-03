@@ -1,0 +1,4 @@
+file,world,group,model,ref_cond,seed,level,style_type,supplementary,qset,judge,judge_model_returned,settings,parse_ok,I_vlm,P_vlm,Q_vlm,total_vlm,input_tokens,output_tokens,status
+cl1_flux2klein4b_cheshire_ref_seed123.png,w004,cl1,flux2klein4b,ref,123,L1,Q版anime,0,v3,gpt-4o,gpt-4o-2024-08-06,temperature=0.2;reasoning_effort=None;max_tokens=2000;detail=high;json;side=768,1,4,3,4,90.9,1659,137,ok
+cl1_flux2klein4b_cheshire_ref_seed777.png,w004,cl1,flux2klein4b,ref,777,L1,Q版anime,0,v3,gpt-4o,gpt-4o-2024-08-06,temperature=0.2;reasoning_effort=None;max_tokens=2000;detail=high;json;side=768,1,4,4,4,100.0,1659,144,ok
+cl1_flux2klein4b_cheshire_ref_seed42.png,w004,cl1,flux2klein4b,ref,42,L1,Q版anime,0,v3,gpt-4o,gpt-4o-2024-08-06,temperature=0.2;reasoning_effort=None;max_tokens=2000;detail=high;json;side=768,1,4,3,4,90.9,1659,153,ok

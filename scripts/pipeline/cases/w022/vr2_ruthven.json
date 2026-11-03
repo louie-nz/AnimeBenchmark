@@ -1,0 +1,49 @@
+{
+  "group": "vr2",
+  "character": "ruthven",
+  "world": "w022",
+  "design_id": "p2_w022_du061 head + p2_w022_du062 prompt",
+  "level": "L2",
+  "character_axis": "normal human (Q版, vampire)",
+  "style_type": "Q版anime",
+  "ref_head": "vam_ruthven_ref_head.png",
+  "ref_source": "same head as vr1",
+  "target_image": "p2_w022_du062 images (not used; reference only)",
+  "head_text": "a head.",
+  "content": {
+    "theme": "chibi 2.5D illustration of Lord Ruthven resurrected by moonlight",
+    "action": "vampire lord floating under bright full moon",
+    "eyes": "glowing red eyes",
+    "fangs": "small fangs showing",
+    "effect": "dark magic energy particles",
+    "costume": "regency coat fluttering",
+    "style": "cool spooky cute chibi",
+    "background": "plain background",
+    "quality": "masterpiece",
+    "composition": "1:1 ratio"
+  },
+  "negative_original": "ugly gore, extra limbs, bad eyes, deformed anatomy, blurry background, bad hands",
+  "templates": {
+    "sd": "{theme}, {action}, {eyes}, {fangs}, {effect}, {costume}, {style}, {background}, {quality}, {composition}",
+    "flux_ref": "Keep this man's face, hair and art style exactly the same as in the image. Show him as a {theme}, full body, zoomed out: a {action}, with {eyes}, {fangs}, {effect}, his {costume}. Style: {style}. {background}, {quality}, {composition}.",
+    "flux_noref": "A {theme}, full body, zoomed out: a {action}, with {eyes}, {fangs}, {effect}, his {costume}. Style: {style}. {background}, {quality}, {composition}."
+  },
+  "checklist_must": [
+    "silver-white hair + pale face (only from the reference: the prompt names no hair colour)",
+    "floating",
+    "full moon",
+    "glowing red eyes",
+    "fangs",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "dark magic particles",
+    "coat fluttering",
+    "spooky but cute"
+  ],
+  "notes": [
+    "CHANGE vs week-12 plan: du033 -> du034 was dropped because du033, du034 and du040 have identical positive prompts in the dataset, so 'L2' would not change anything.",
+    "du062 is the next unit in the same Q-version series as du061 and changes state, pose and effects (resurrection by moonlight).",
+    "Silver hair is a clean identity test (like Dorothy's blonde hair in od2); red eyes are required by the prompt and are not an identity error."
+  ]
+}

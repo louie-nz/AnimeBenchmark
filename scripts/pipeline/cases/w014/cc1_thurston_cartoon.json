@@ -1,0 +1,45 @@
+{
+  "group": "cc1",
+  "character": "thurston_cartoon",
+  "world": "w014",
+  "design_id": "p2_w014_du061",
+  "level": "L1",
+  "character_axis": "normal human (Q版)",
+  "style_type": "Q版cartoon",
+  "ref_head": "cth_thurston_cartoon_ref_head.png",
+  "ref_source": "p2_w014_du061_img01.png (fedora, frowning)",
+  "target_image": "p2_w014_du061_img02.png (flashlight, worried)",
+  "head_text": "a head.",
+  "content": {
+    "theme": "chibi 2.5D illustration of Francis Thurston",
+    "subject": "1920s investigator",
+    "costume": "wearing brown wool trench coat and fedora hat",
+    "props": "holding a magnifying glass and old manuscript",
+    "style": "cute proportions, detailed attire",
+    "background": "clean plain background",
+    "quality": "masterpiece, high quality",
+    "composition": "1:1 square ratio"
+  },
+  "negative_original": "monsters, realistic horrific face, watermarks, bad anatomy, deformed hands, extra fingers, text, messy background, extra limbs",
+  "templates": {
+    "sd": "{theme}, {subject}, {costume}, {props}, {style}, {background}, {quality}, {composition}",
+    "flux_ref": "Keep this man's face and art style exactly the same as in the image. It is a {theme}, a {subject}. Show him full body, zoomed out, {costume}, {props}. {style}, {background}, {quality}, {composition}.",
+    "flux_noref": "A {theme}, a {subject}. Full body, zoomed out, {costume}, {props}. {style}, {background}, {quality}, {composition}."
+  },
+  "checklist_must": [
+    "brown fedora, dark hair, thick-line cartoon face (reference)",
+    "brown trench coat",
+    "old manuscript",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "magnifying glass",
+    "clean plain background",
+    "no flashlight (only in the other image)"
+  ],
+  "notes": [
+    "Prompt verbatim.",
+    "Neither original image draws the magnifying glass (img01 holds a clipboard, img02 a flashlight); it stays a 'should' item.",
+    "Cartoon control for w014, and the same character as ct1 drawn in a cartoon style: allows a within-character anime vs cartoon comparison (qualitative)."
+  ]
+}

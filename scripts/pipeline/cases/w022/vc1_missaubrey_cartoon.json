@@ -1,0 +1,48 @@
+{
+  "group": "vc1",
+  "character": "missaubrey_cartoon",
+  "world": "w022",
+  "design_id": "p2_w022_du065",
+  "level": "L1",
+  "character_axis": "normal human (Q版)",
+  "style_type": "Q版cartoon",
+  "ref_head": "vam_missaubrey_cartoon_ref_head.png",
+  "ref_source": "p2_w022_du065_img02.png (pink dress, worried, holding brooch; head only)",
+  "target_image": "p2_w022_du065_img01.png (bridal gown, veil, lily bouquet)",
+  "head_text": "a head.",
+  "content": {
+    "theme": "chibi 2.5D illustration of Miss Miss Aubrey",
+    "subject": "noble young 19th-century English lady",
+    "costume": "wearing ivory regency bridal gown with lace veil and pearl necklace",
+    "props": "holding white lily bouquet",
+    "expression": "gentle sweet smile",
+    "style": "elegant chibi",
+    "background": "plain background",
+    "quality": "masterpiece",
+    "composition": "1:1 ratio"
+  },
+  "negative_original": "scary horror, bloody, ugly face, bad hands, bad anatomy, deformed limbs, extra fingers",
+  "templates": {
+    "sd": "{theme}, {subject}, {costume}, {props}, {expression}, {style}, {background}, {quality}, {composition}",
+    "flux_ref": "Keep this lady's face and art style exactly the same as in the image. It is a {theme}, a {subject}. Show her full body, zoomed out, {costume}, {props}, with a {expression}. {style}, {background}, {quality}, {composition}.",
+    "flux_noref": "A {theme}, a {subject}. Full body, zoomed out, {costume}, {props}, with a {expression}. {style}, {background}, {quality}, {composition}."
+  },
+  "checklist_must": [
+    "brown updo hair, big brown eyes, thick-line cartoon face (reference)",
+    "ivory bridal gown",
+    "lace veil",
+    "white lily bouquet",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "pearl necklace",
+    "gentle smile (prompt; the reference is worried)",
+    "plain background",
+    "no brooch / pink dress (only in the reference image)"
+  ],
+  "notes": [
+    "Cartoon control for w022 (thick outlines, flat colour).",
+    "Prompt verbatim, including the dataset's duplicated 'Miss Miss'.",
+    "Expression follows the prompt (smile), not the reference (worried)."
+  ]
+}

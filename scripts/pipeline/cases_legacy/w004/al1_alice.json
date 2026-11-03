@@ -1,0 +1,46 @@
+{
+  "group": "al1",
+  "character": "alice",
+  "world": "w004",
+  "design_id": "legacy (week 10-11, before the JSON pipeline)",
+  "level": "L1",
+  "style_type": "cartoon",
+  "ref_head": "al1_alice_ref_head.png",
+  "ref_head_candidates": [
+    "al1_alice_ref_head.png",
+    "REF_al1_alice_ref_head.png",
+    "alice_ref_head.png"
+  ],
+  "image_glob": {
+    "ref": "results/generated/al1_{tag}_alice_ref_seed*.png",
+    "noref": "results/generated/al1_{tag}_alice_noref_seed*.png"
+  },
+  "head_text": "a head.",
+  "content": {
+    "prompt": "Alice from Alice in Wonderland, classic storybook illustration, young girl with golden blonde hair, blue dress, white pinafore apron, looking curious and amazed, reaching out towards a white rabbit on a sunny riverbank, Victorian era, soft lighting, square composition"
+  },
+  "negative_original": "",
+  "templates": {
+    "sd": "{prompt}",
+    "flux_ref": "{prompt}",
+    "flux_noref": "{prompt}"
+  },
+  "checklist_must": [
+    "golden blonde hair (reference)",
+    "blue dress with white pinafore apron",
+    "a white rabbit",
+    "reaching out towards the rabbit",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "curious, amazed expression",
+    "sunny riverbank outdoors",
+    "soft lighting",
+    "classic storybook illustration look",
+    "kneeling or leaning forward"
+  ],
+  "notes": [
+    "VLM-ONLY legacy case: images were generated with the week 10-11 scripts; kept in cases_legacy/ so generate_all.py never regenerates them.",
+    "Checklist translated from the scoring workbook (v1)."
+  ]
+}

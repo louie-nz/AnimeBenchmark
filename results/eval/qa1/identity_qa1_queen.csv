@@ -1,0 +1,13 @@
+﻿file,group,model,ref_cond,seed,head_found,head_score,head_box,clip_i,dino_i
+qa1_anythingv5_ipadapter_queen_noref_seed123.png,qa1,anythingv5_ipadapter,noref,123,1,0.492,"[115, 90, 421, 375]",0.6912,0.6433
+qa1_anythingv5_ipadapter_queen_noref_seed42.png,qa1,anythingv5_ipadapter,noref,42,1,0.371,"[205, 55, 361, 220]",0.7351,0.6473
+qa1_anythingv5_ipadapter_queen_noref_seed777.png,qa1,anythingv5_ipadapter,noref,777,1,0.739,"[144, 62, 363, 284]",0.7523,0.6986
+qa1_anythingv5_ipadapter_queen_ref_seed123.png,qa1,anythingv5_ipadapter,ref,123,1,0.6,"[158, 138, 442, 376]",0.7741,0.704
+qa1_anythingv5_ipadapter_queen_ref_seed42.png,qa1,anythingv5_ipadapter,ref,42,1,0.562,"[121, 105, 445, 349]",0.7289,0.6574
+qa1_anythingv5_ipadapter_queen_ref_seed777.png,qa1,anythingv5_ipadapter,ref,777,1,0.363,"[99, 125, 433, 422]",0.7372,0.7066
+qa1_flux2klein4b_queen_noref_seed123.png,qa1,flux2klein4b,noref,123,1,0.49,"[287, 185, 739, 528]",0.7062,0.6336
+qa1_flux2klein4b_queen_noref_seed42.png,qa1,flux2klein4b,noref,42,1,0.551,"[296, 173, 741, 543]",0.7322,0.6047
+qa1_flux2klein4b_queen_noref_seed777.png,qa1,flux2klein4b,noref,777,1,0.424,"[290, 187, 743, 526]",0.71,0.6502
+qa1_flux2klein4b_queen_ref_seed123.png,qa1,flux2klein4b,ref,123,1,0.534,"[258, 194, 765, 541]",0.7938,0.6845
+qa1_flux2klein4b_queen_ref_seed42.png,qa1,flux2klein4b,ref,42,1,0.573,"[232, 179, 746, 594]",0.8061,0.6489
+qa1_flux2klein4b_queen_ref_seed777.png,qa1,flux2klein4b,ref,777,1,0.563,"[263, 199, 734, 552]",0.773,0.6322

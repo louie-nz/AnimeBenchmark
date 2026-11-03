@@ -1,0 +1,49 @@
+{
+  "group": "dc1",
+  "character": "domin",
+  "world": "w029",
+  "design_id": "p2_w029_du061",
+  "level": "L1",
+  "character_axis": "normal human (Q版)",
+  "style_type": "Q版cartoon",
+  "ref_head": "rur_domin_ref_head.png",
+  "ref_source": "p2_w029_du061_img02.png (calm smile, holding a factory model; head only)",
+  "target_image": "p2_w029_du061_img01.png (holding a blueprint up, shouting)",
+  "head_text": "a head.",
+  "content": {
+    "theme": "chibi 2.5D illustration of Harry Domin",
+    "subject": "general manager of R.U.R. robot company",
+    "role": "early 20th century tech visionary",
+    "costume": "wearing dark green double-breasted suit, wire glasses",
+    "props": "holding glowing factory blueprints",
+    "expression": "passionate confident smile",
+    "style": "retro sci-fi chibi",
+    "background": "plain background",
+    "quality": "masterpiece",
+    "composition": "1:1 ratio"
+  },
+  "negative_original": "scary monster, violent blood, deformed limbs, extra fingers, bad anatomy, bad eyes, dirty messy",
+  "templates": {
+    "sd": "{theme}, {subject}, {role}, {costume}, {props}, {expression}, {style}, {background}, {quality}, {composition}",
+    "flux_ref": "Keep this man's face and art style exactly the same as in the image. It is a {theme}, {subject}, an {role}. Show him full body, zoomed out, {costume}, {props}, with a {expression}. {style}, {background}, {quality}, {composition}.",
+    "flux_noref": "A {theme}, {subject}, an {role}. Full body, zoomed out, {costume}, {props}, with a {expression}. {style}, {background}, {quality}, {composition}."
+  },
+  "checklist_must": [
+    "brown swept-back hair with grey temples, round cartoon face, thick outlines (reference)",
+    "dark green double-breasted suit",
+    "factory blueprints",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "wire glasses (prompt) -- not an identity error",
+    "glowing blueprints",
+    "confident smile",
+    "plain background",
+    "no factory model (only in the reference image)"
+  ],
+  "notes": [
+    "Cartoon control for w029.",
+    "DATA: the dataset images draw a brown pinstripe suit and no glasses, while the prompt asks for a dark green suit and wire glasses. Prompt wins: green suit and glasses are prompt items, not identity errors.",
+    "Prompt verbatim."
+  ]
+}

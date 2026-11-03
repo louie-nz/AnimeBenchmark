@@ -1,0 +1,13 @@
+﻿file,group,model,ref_cond,seed,character,style_type,level,head_found,head_score,head_box,clip_i,dino_i
+cl1_anythingv5_ipadapter_cheshire_noref_seed123.png,cl1,anythingv5_ipadapter,noref,123,cheshire,Q版anime,L1,1,0.354,"[392, 12, 511, 124]",0.669,0.5365
+cl1_anythingv5_ipadapter_cheshire_noref_seed42.png,cl1,anythingv5_ipadapter,noref,42,cheshire,Q版anime,L1,1,0.367,"[107, 91, 411, 433]",0.6576,0.4605
+cl1_anythingv5_ipadapter_cheshire_noref_seed777.png,cl1,anythingv5_ipadapter,noref,777,cheshire,Q版anime,L1,1,0.4,"[364, 4, 470, 135]",0.6695,0.545
+cl1_anythingv5_ipadapter_cheshire_ref_seed123.png,cl1,anythingv5_ipadapter,ref,123,cheshire,Q版anime,L1,1,0.783,"[29, 22, 512, 512]",0.7341,0.6971
+cl1_anythingv5_ipadapter_cheshire_ref_seed42.png,cl1,anythingv5_ipadapter,ref,42,cheshire,Q版anime,L1,1,0.781,"[23, 0, 512, 499]",0.7692,0.7655
+cl1_anythingv5_ipadapter_cheshire_ref_seed777.png,cl1,anythingv5_ipadapter,ref,777,cheshire,Q版anime,L1,1,0.426,"[1, 1, 511, 511]",0.7915,0.6835
+cl1_flux2klein4b_cheshire_noref_seed123.png,cl1,flux2klein4b,noref,123,cheshire,Q版anime,L1,1,0.659,"[248, 121, 779, 550]",0.7963,0.4629
+cl1_flux2klein4b_cheshire_noref_seed42.png,cl1,flux2klein4b,noref,42,cheshire,Q版anime,L1,1,0.569,"[224, 101, 800, 572]",0.8308,0.6177
+cl1_flux2klein4b_cheshire_noref_seed777.png,cl1,flux2klein4b,noref,777,cheshire,Q版anime,L1,1,0.671,"[255, 129, 772, 542]",0.8202,0.5507
+cl1_flux2klein4b_cheshire_ref_seed123.png,cl1,flux2klein4b,ref,123,cheshire,Q版anime,L1,1,0.582,"[225, 125, 817, 615]",0.8509,0.824
+cl1_flux2klein4b_cheshire_ref_seed42.png,cl1,flux2klein4b,ref,42,cheshire,Q版anime,L1,1,0.549,"[222, 106, 832, 613]",0.8738,0.8352
+cl1_flux2klein4b_cheshire_ref_seed777.png,cl1,flux2klein4b,ref,777,cheshire,Q版anime,L1,1,0.505,"[243, 128, 818, 594]",0.8455,0.8401

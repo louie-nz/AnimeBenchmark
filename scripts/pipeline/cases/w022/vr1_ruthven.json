@@ -1,0 +1,48 @@
+{
+  "group": "vr1",
+  "character": "ruthven",
+  "world": "w022",
+  "design_id": "p2_w022_du061",
+  "level": "L1",
+  "character_axis": "normal human (Q版, vampire)",
+  "style_type": "Q版anime",
+  "ref_head": "vam_ruthven_ref_head.png",
+  "ref_source": "p2_w022_du061_img02.png (bowing in a salon; silver hair, purple eyes, earring)",
+  "target_image": "p2_w022_du061_img01.png (standing with gold-headed cane)",
+  "head_text": "a head.",
+  "content": {
+    "theme": "chibi 2.5D illustration of Lord Ruthven",
+    "subject": "aristocrat vampire from early 19th century London",
+    "skin": "pale deadly skin",
+    "eyes": "cold dead grey eyes",
+    "costume": "elegant black regency coat and silk cravat",
+    "props": "holding a gold-headed cane",
+    "mood": "handsome cold aristocrat",
+    "style": "cute gothic chibi",
+    "background": "plain background",
+    "quality": "masterpiece",
+    "composition": "1:1 ratio"
+  },
+  "negative_original": "scary monster, bloody horror, grotesque face, extra limbs, bad anatomy, deformed hands",
+  "templates": {
+    "sd": "{theme}, {subject}, {skin}, {eyes}, {costume}, {props}, {mood}, {style}, {background}, {quality}, {composition}",
+    "flux_ref": "Keep this man's face and art style exactly the same as in the image. It is a {theme}, an {subject}, with {skin} and {eyes}. Show him full body, zoomed out, in an {costume}, {props}. A {mood}, {style}. {background}, {quality}, {composition}.",
+    "flux_noref": "A {theme}, an {subject}, with {skin} and {eyes}. Full body, zoomed out, in an {costume}, {props}. A {mood}, {style}. {background}, {quality}, {composition}."
+  },
+  "checklist_must": [
+    "silver-white wavy hair, heavy-lidded eyes, very pale face (reference)",
+    "black regency coat + cravat",
+    "gold-headed cane",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "cold / aloof expression",
+    "plain background",
+    "earring (reference detail)"
+  ],
+  "notes": [
+    "Prompt verbatim.",
+    "Eye colour conflict: prompt says 'cold dead grey eyes', reference eyes are purple. Rule as before: a colour written in the prompt wins, so grey eyes are not penalised and purple eyes are not penalised either (identity).",
+    "Reference taken from img02 so that the cane (img01, prompt item) is not copied from the reference."
+  ]
+}

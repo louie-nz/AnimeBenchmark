@@ -1,0 +1,46 @@
+{
+  "group": "ve1",
+  "character": "eleanor",
+  "world": "w022",
+  "design_id": "p2_w022_du071",
+  "level": "L1",
+  "character_axis": "normal proportion (7-head), original extended character",
+  "style_type": "anime",
+  "supplementary": true,
+  "ref_head": "vam_eleanor_ref_head.png",
+  "ref_source": "p2_w022_du071_img01.png (graveyard; face visible, eyes closed, blood at mouth corner)",
+  "target_image": "p2_w022_du071_img02.png (indoor ball, folding fan, veil over the face)",
+  "head_text": "a woman head.",
+  "content": {
+    "subject": "regency era noble lady turned vampyre",
+    "body": "7-head tall, pale gaunt body",
+    "costume": "faded regency evening gown, tattered lace, broken black veil, dull pearl jewelry",
+    "style": "gothic illustration",
+    "composition": "square composition",
+    "light": "dim moonlight"
+  },
+  "negative_original": "watermark, text, signature, modern clothes, anime chibi, extra limbs, distorted fingers, photorealistic photograph, bright neon color",
+  "templates": {
+    "sd": "{subject}, {body}, {costume}, {style}, {composition}, {light}",
+    "flux_ref": "Keep this woman's face and art style exactly the same as in the image. She is a {subject}, {body}. Show her full body, zoomed out, in a {costume}. Style: {style}, {composition}, {light}.",
+    "flux_noref": "A {subject}, {body}. Full body, zoomed out, in a {costume}. Style: {style}, {composition}, {light}."
+  },
+  "checklist_must": [
+    "long wavy silver-grey hair, black wide-brimmed hat, pale gaunt face (reference)",
+    "normal 7-head proportions (not chibi)",
+    "faded evening gown with tattered lace",
+    "broken black veil",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "dull pearl jewelry",
+    "gothic illustration style",
+    "dim moonlight"
+  ],
+  "notes": [
+    "SUPPLEMENTARY: the only normal-proportion anime-style case in the benchmark (week-12 row 'L1 normal-proportion anime').",
+    "Original extended character of the dataset (no book canon), so the models have no name prior: identity can only come from the reference.",
+    "The reference shows a blood trace at the mouth; blood in the output is leakage, not a prompt item.",
+    "Possible later Task B variant: the Republic-era schoolgirl cast in this same 'turned vampyre' role."
+  ]
+}

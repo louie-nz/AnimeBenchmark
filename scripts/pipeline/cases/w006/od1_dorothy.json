@@ -1,0 +1,48 @@
+{
+  "group": "od1",
+  "character": "dorothy",
+  "world": "w006",
+  "design_id": "p2_w006_du031",
+  "level": "L1",
+  "character_axis": "normal human (Q版)",
+  "style_type": "Q版anime",
+  "ref_head": "oz_dorothy_ref_head.png",
+  "ref_source": "p2_w006_du031_img02.png (pink balloon, calm smile)",
+  "target_image": "p2_w006_du031_img01.png (waving, rainbow, balloons)",
+  "head_text": "a head.",
+  "content": {
+    "theme": "Dorothy Gale, cute chibi",
+    "subject": "2.5-head chibi girl with twin braids",
+    "costume": "blue gingham dress, white shirt, red shoes",
+    "colors": "sky blue, white, red, straw yellow",
+    "action": "waving, smiling, leading companions",
+    "props": "silver shoes, magic belt, rainbow, balloon",
+    "composition": "centered, plain solid background, 1:1 square composition",
+    "quality": "high quality, no text, no watermark"
+  },
+  "negative_original": "watermark, letters, autograph, real photograph, official artwork, additional fingers, distorted hands, poor resolution, busy background, fuzzy",
+  "templates": {
+    "sd": "{theme}, {subject}, {costume}, {colors}, {action}, {props}, {composition}, {quality}",
+    "flux_ref": "Keep this girl's face and art style exactly the same as in the image. She is {theme}, a {subject}. Show her full body, zoomed out. Outfit: {costume}. Colors: {colors}. She is {action}. Props and symbols: {props}. Composition: {composition}. {quality}.",
+    "flux_noref": "{theme}, a {subject}. Full body, zoomed out. Outfit: {costume}. Colors: {colors}. She is {action}. Props and symbols: {props}. Composition: {composition}. {quality}."
+  },
+  "checklist_must": [
+    "blonde twin braids, brown eyes (reference)",
+    "blue gingham dress + white shirt",
+    "waving",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "smiling",
+    "silver shoes",
+    "magic belt",
+    "rainbow",
+    "balloon",
+    "plain solid background"
+  ],
+  "notes": [
+    "Prompt verbatim. Prompt lists both 'red shoes' and 'silver shoes'; the original images show silver shoes.",
+    "'leading companions' is not drawn in the original images; not scored.",
+    "Same reference head is reused for od2 (L2), as Alice du001 head was reused for AL1 and B16."
+  ]
+}

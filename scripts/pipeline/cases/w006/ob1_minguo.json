@@ -1,0 +1,53 @@
+{
+  "group": "ob1",
+  "character": "minguo",
+  "world": "w006",
+  "design_id": "(new character)",
+  "level": "TaskB",
+  "character_axis": "new character",
+  "style_type": "Q版anime",
+  "ref_head": "tb1_minguo_ref_head.png",
+  "ref_source": "Republic-era schoolgirl head (same as TB1)",
+  "target_image": "(none: new character)",
+  "head_text": "a head.",
+  "content": {
+    "subject": "young Chinese girl with black twin braids and straight bangs",
+    "role": "a newly arrived visitor to the Emerald City",
+    "own_outfit": "her Republic-era schoolgirl outfit, light blue high-collared blouse and long black skirt",
+    "world_items": "green-tinted spectacles, small emerald brooch",
+    "setting": "yellow brick road leading to the emerald-studded green gates of the Emerald City",
+    "style": "cute chibi style",
+    "composition": "square composition"
+  },
+  "negative_original": "watermark, text, realistic photo, extra fingers, deformed hands, low resolution",
+  "templates": {
+    "sd": "{subject}, {role}, wearing {own_outfit}, {world_items}, {setting}, {style}, {composition}",
+    "flux_ref": "Keep this girl's face and art style exactly the same as in the image. She is a {subject}, {role}. Show her full body, zoomed out. She is wearing {own_outfit}, with {world_items}. Scene: {setting}. Style: {style}, {composition}.",
+    "flux_noref": "A {subject}, {role}. Full body, zoomed out. She is wearing {own_outfit}, with {world_items}. Scene: {setting}. Style: {style}, {composition}."
+  },
+  "checklist_must": [
+    "identity kept: black twin braids, straight bangs, face (reference)",
+    "Republic-era outfit kept: high-collared blouse + long dark skirt",
+    "green-tinted spectacles",
+    "Emerald City / green gates visible",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "yellow brick road",
+    "emerald brooch",
+    "chibi proportions",
+    "overall coherence 0-4: she looks like she belongs in Oz"
+  ],
+  "checklist_penalty": [
+    "replacing Dorothy: blue gingham dress, silver or ruby shoes, basket, small black dog (Toto)",
+    "cultural intrusion: qipao, Chinese architecture or lattice windows in the scene",
+    "losing the new identity: hair or face drifting to blonde / Western default"
+  ],
+  "notes": [
+    "Task B prompt is authored with a fixed template (dataset has no new-character prompts): new identity + a non-named role native to the world + canon world symbols + canon setting.",
+    "World elements are canon (The Wonderful Wizard of Oz, matching the dataset world summary): visitors to the Emerald City wear green spectacles given by the Guardian of the Gates; yellow brick road; emerald-studded green city gates. The dataset itself depicts them (w006 du030 Guardian: '翡翠城门，绿色眼镜'; du012: '黄砖路').",
+    "Role is deliberately not a named character (not Dorothy, not a witch) so the new girl does not replace an existing character.",
+    "Outfit is kept in its original colours on purpose: the test is whether the model adds world items without overwriting the Republic-era identity.",
+    "Negative prompt is authored (generic quality terms only)."
+  ]
+}

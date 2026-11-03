@@ -1,0 +1,42 @@
+{
+  "group": "od2",
+  "character": "dorothy",
+  "world": "w006",
+  "design_id": "p2_w006_du055",
+  "level": "L2",
+  "character_axis": "normal human (Q版)",
+  "style_type": "Q版anime",
+  "ref_head": "oz_dorothy_ref_head.png",
+  "ref_source": "p2_w006_du031_img02.png",
+  "target_image": "p2_w006_du055_img01.png (shield defence) / img02 (sword attack)",
+  "head_text": "a head.",
+  "content": {
+    "subject": "Dorothy as warrior",
+    "costume": "wearing leather armor and holding sword and shield",
+    "pose": "dynamic fighting pose",
+    "style": "chibi style",
+    "composition": "square"
+  },
+  "negative_original": "watermark, text, realistic, gore",
+  "templates": {
+    "sd": "{subject}, {costume}, {pose}, {style}, {composition}",
+    "flux_ref": "Keep this girl's face and art style exactly the same as in the image. Show her as {subject}, full body, zoomed out: {costume}, in a {pose}. Style: {style}, {composition} composition.",
+    "flux_noref": "{subject}, full body, zoomed out: {costume}, in a {pose}. Style: {style}, {composition} composition."
+  },
+  "checklist_must": [
+    "blonde braids (only from reference: the prompt names no hair colour)",
+    "leather armor",
+    "sword",
+    "shield",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "dynamic fighting pose",
+    "gingham dress fully replaced by armor (no outfit leakage)"
+  ],
+  "notes": [
+    "Reference is du031, not du051/du081: du055's Dorothy is blonde, du051 and du081 are brown-haired.",
+    "Prompt has no hair colour, so blonde hair is a clean test of whether the reference is used (like the Queen's red hair).",
+    "du055 has no Oz world elements; this group tests outfit + action change only."
+  ]
+}

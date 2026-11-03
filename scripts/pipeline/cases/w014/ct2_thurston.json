@@ -1,0 +1,41 @@
+{
+  "group": "ct2",
+  "character": "thurston",
+  "world": "w014",
+  "design_id": "p2_w014_du031 head + p2_w014_du067 prompt",
+  "level": "L2",
+  "character_axis": "normal human (Q版)",
+  "style_type": "Q版anime",
+  "ref_head": "cth_thurston_ref_head.png",
+  "ref_source": "same head as ct1",
+  "target_image": "p2_w014_du067_img01.png (on gears, clipboard + ruler) -- different-looking Thurston, reference only",
+  "head_text": "a head.",
+  "content": {
+    "theme": "chibi steampunk investigator, Francis Thurston variant",
+    "costume": "wearing brown leather trench coat, brass brass goggles on hat",
+    "props": "holding a steampunk brass detector with gears and steam",
+    "style": "cute chibi, plain background, highly detailed, 1:1 ratio"
+  },
+  "negative_original": "modern technology, plastic, horror face, distorted hands, extra arms, low quality",
+  "templates": {
+    "sd": "{theme}, {costume}, {props}, {style}",
+    "flux_ref": "Keep this man's face and art style exactly the same as in the image. Show him as a {theme}, full body, zoomed out: {costume}, {props}. Style: {style}.",
+    "flux_noref": "A {theme}, full body, zoomed out: {costume}, {props}. Style: {style}."
+  },
+  "checklist_must": [
+    "dark hair + round glasses (only from the reference: the prompt names neither)",
+    "brown leather trench coat",
+    "brass goggles on a hat",
+    "brass detector with gears / steam",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "plain background",
+    "red scarf and grey overcoat replaced (no outfit leakage)"
+  ],
+  "notes": [
+    "Prompt verbatim, including the duplicated word 'brass brass' from the dataset.",
+    "du067's own images show a younger anime boy with no glasses; the test is whether the du031 identity survives the outfit change (as Alice + du003 in B16).",
+    "Glasses are a clean identity cue: the prompt does not mention them."
+  ]
+}

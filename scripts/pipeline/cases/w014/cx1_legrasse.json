@@ -1,0 +1,49 @@
+{
+  "group": "cx1",
+  "character": "legrasse",
+  "world": "w014",
+  "design_id": "p2_w014_du037",
+  "level": "L1",
+  "character_axis": "normal human (Q版)",
+  "style_type": "Q版anime",
+  "supplementary": true,
+  "ref_head": "cth_legrasse_ref_head.png",
+  "ref_source": "p2_w014_du037_img02.png (standing, light background)",
+  "target_image": "p2_w014_du037_img01.png (crouching in swamp with flashlight, revolver, idol)",
+  "head_text": "a head.",
+  "content": {
+    "theme": "John R. Legrasse, cute chibi detective",
+    "subject": "2.5-head chibi sturdy officer",
+    "costume": "police uniform, coat, cap, revolver",
+    "colors": "dark blue, brown, brass, off-white",
+    "action": "shining flashlight, crouching, looking back",
+    "props": "flashlight, badge, handcuffs, Cthulhu idol, swamp",
+    "composition": "centered, plain solid background, 1:1 square composition",
+    "quality": "high quality, no text, no watermark"
+  },
+  "negative_original": "watermark, letters, autograph, real photograph, official artwork, additional fingers, distorted hands, poor resolution, busy background, fuzzy",
+  "templates": {
+    "sd": "{theme}, {subject}, {costume}, {colors}, {action}, {props}, {composition}, {quality}",
+    "flux_ref": "Keep this man's face and art style exactly the same as in the image. He is {theme}, a {subject}. Show him full body, zoomed out. Outfit: {costume}. Colors: {colors}. He is {action}. Props and setting: {props}. Composition: {composition}. {quality}.",
+    "flux_noref": "{theme}, a {subject}. Full body, zoomed out. Outfit: {costume}. Colors: {colors}. He is {action}. Props and setting: {props}. Composition: {composition}. {quality}."
+  },
+  "checklist_must": [
+    "navy peaked cap with gold badge, black hair, stern eyes (reference)",
+    "dark blue police uniform / coat",
+    "shining a flashlight",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "crouching",
+    "looking back",
+    "revolver",
+    "handcuffs",
+    "Cthulhu idol",
+    "swamp"
+  ],
+  "notes": [
+    "SUPPLEMENTARY group: reported separately, not in the core per-world total, so every world keeps the same core slots.",
+    "Prompt verbatim; it asks for both 'swamp' and 'plain solid background' (conflict in the source).",
+    "Angell du033 was rejected: its two images differ (curly hair, no beard vs straight hair with goatee)."
+  ]
+}

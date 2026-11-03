@@ -1,0 +1,48 @@
+{
+  "group": "gl1",
+  "character": "cardguard",
+  "world": "w004",
+  "design_id": "p2_w004_du074",
+  "level": "L1",
+  "character_axis": "normal human (original-extension)",
+  "style_type": "anime",
+  "ref_head": "wl1_guard_ref_head.png",
+  "ref_source": "p2_w004_du074_img01.png (holding card shield)",
+  "target_image": "p2_w004_du074_img02.png (holding card sword)",
+  "head_text": "a head.",
+  "content": {
+    "subject": "3-head chibi card justice guard",
+    "body": "square layered card body",
+    "costume": "black white gold card armor",
+    "pose": "upright firm posture",
+    "badge": "red heart justice badge",
+    "expression": "serious resolute gaze",
+    "scene": "royal card fairy tale square transparent canvas",
+    "texture": "matte golden texture"
+  },
+  "negative_original": "watermark, text, messy broken body, dark toxic spore, crazy twisted expression, bright garish red, blurry, gore, soft cloud texture",
+  "templates": {
+    "sd": "{subject}, {body}, {costume}, {pose}, {badge}, {expression}, {scene}, {texture}",
+    "flux_ref": "Keep this character's face and art style exactly the same as in the image. The character is a {subject} with a {body}. Show the full body, zoomed out. Outfit: {costume}, with a {badge}. The character has an {pose} and a {expression}. Setting: {scene}. Texture: {texture}.",
+    "flux_noref": "A {subject} with a {body}. Full body, zoomed out. Outfit: {costume}, with a {badge}. The character has an {pose} and a {expression}. Setting: {scene}. Texture: {texture}."
+  },
+  "checklist_must": [
+    "blonde short hair, blue eyes (from reference)",
+    "card-themed crown",
+    "black white gold card armor",
+    "red heart badge",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "3-head chibi proportions (prompt)",
+    "upright firm posture",
+    "serious resolute gaze",
+    "card/fairy-tale setting",
+    "matte golden texture"
+  ],
+  "notes": [
+    "Data inconsistency: the prompt asks for '3-head chibi', but both original images are normal-proportion anime (Midjourney ignored the head ratio). Whole 原创扩展 batch in w004 has this pattern.",
+    "So this case tests: normal-anime reference + chibi prompt. Record which one the model follows; do not penalise identity for proportion change.",
+    "Reference head has a small red smudge above the crown (halo remnant)."
+  ]
+}

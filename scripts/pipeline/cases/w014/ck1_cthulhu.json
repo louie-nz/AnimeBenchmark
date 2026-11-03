@@ -1,0 +1,45 @@
+{
+  "group": "ck1",
+  "character": "cthulhu",
+  "world": "w014",
+  "design_id": "p2_w014_du049",
+  "level": "L1",
+  "character_axis": "non-human",
+  "style_type": "Q版cartoon",
+  "ref_head": "cth_cthulhu_ref_head.png",
+  "ref_source": "p2_w014_du049_img01.png (head only; watermark and held toy excluded)",
+  "target_image": "p2_w014_du049_img02.png",
+  "head_text": "a green octopus head.",
+  "content": {
+    "theme": "Cthulhu, cute chibi version",
+    "head": "small octopus head",
+    "wings": "tiny wings",
+    "subject": "adorable green monster",
+    "mood": "playful",
+    "style": "cartoon style"
+  },
+  "negative_original": "scary, dark, realistic",
+  "templates": {
+    "sd": "{theme}, {head}, {wings}, {subject}, {mood}, {style}",
+    "flux_ref": "Keep this creature's face and art style exactly the same as in the image. It is {theme}: a {subject} with a {head} and {wings}. Show its full body, zoomed out. It is {mood}. Style: {style}.",
+    "flux_noref": "{theme}: a {subject} with a {head} and {wings}. Full body, zoomed out. It is {mood}. Style: {style}."
+  },
+  "checklist_must": [
+    "a monster, not a human (octopus head, face tentacles)",
+    "pale green colour, big glossy eyes (reference)",
+    "tiny wings",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "playful / cute mood",
+    "chibi proportions",
+    "soft watercolour look (reference)",
+    "not scary, not dark"
+  ],
+  "notes": [
+    "Prompt verbatim.",
+    "DATA: the variation note says img01 swims and img02 sits on a reef waving; both images actually show the same standing pose holding a small toy. Target is taken from the image.",
+    "Images carry a visible '千问AI生成' watermark; the head crop excludes it.",
+    "du035/du036 were rejected: their two images are not the same design (cute vs grinning; blob vs skull)."
+  ]
+}

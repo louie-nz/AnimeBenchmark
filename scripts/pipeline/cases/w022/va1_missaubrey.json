@@ -1,0 +1,49 @@
+{
+  "group": "va1",
+  "character": "missaubrey",
+  "world": "w022",
+  "design_id": "p2_w022_du037",
+  "level": "L1",
+  "character_axis": "normal human (Q版)",
+  "style_type": "Q版anime",
+  "supplementary": true,
+  "ref_head": "vam_missaubrey_ref_head.png",
+  "ref_source": "p2_w022_du037_img02.png (standing full body, candle and rose on the floor; head + pearl necklace)",
+  "target_image": "p2_w022_du037_img01.png (lowering eyes, touching necklace, rose, candlestick)",
+  "head_text": "a head.",
+  "content": {
+    "theme": "Miss Aubrey, cute chibi melancholy heiress",
+    "subject": "2.5-head chibi slender girl",
+    "costume": "pale gown, lace, pearl necklace, shawl",
+    "colors": "moon white, lavender, grey blue, dark red",
+    "action": "lowering eyes, touching necklace, looking back",
+    "props": "pearl, lace, portrait, candlestick, rose",
+    "composition": "centered, plain solid background, 1:1 square composition",
+    "quality": "high quality, no text, no watermark"
+  },
+  "negative_original": "watermark, wording, seal, photographic style, official still, extra fingers, awkward hands, low definition,杂乱 background, blurred",
+  "templates": {
+    "sd": "{theme}, {subject}, {costume}, {colors}, {action}, {props}, {composition}, {quality}",
+    "flux_ref": "Keep this girl's face and art style exactly the same as in the image. She is {theme}, a {subject}. Show her full body, zoomed out. Outfit: {costume}. Colors: {colors}. She is {action}. Props: {props}. Composition: {composition}. {quality}.",
+    "flux_noref": "{theme}, a {subject}. Full body, zoomed out. Outfit: {costume}. Colors: {colors}. She is {action}. Props: {props}. Composition: {composition}. {quality}."
+  },
+  "checklist_must": [
+    "long dark-brown hair, grey eyes, sad soft face (reference)",
+    "pale gown with lace shawl",
+    "pearl necklace, hand touching it",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "lowering eyes / melancholy",
+    "candlestick",
+    "rose",
+    "portrait",
+    "plain solid background"
+  ],
+  "notes": [
+    "SUPPLEMENTARY (second w022 character). Forms a within-character pair with vc1 (same Miss Aubrey, cartoon style), like ct1/cc1 in w014.",
+    "Prompt verbatim; the negative contains a Chinese word ('杂乱') from the dataset, kept as is.",
+    "du038 has the same positive prompt as du037 (dataset duplication) and its two images differ in hair colour; not used.",
+    "Ianthe was checked (du035, du036, du064, du068) and rejected: in every unit the two images change hair and/or eye colour."
+  ]
+}

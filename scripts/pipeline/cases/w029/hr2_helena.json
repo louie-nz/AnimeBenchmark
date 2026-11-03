@@ -1,0 +1,48 @@
+{
+  "group": "hr2",
+  "character": "helena",
+  "world": "w029",
+  "design_id": "p2_w029_du033 head + p2_w029_du066 prompt",
+  "level": "L2",
+  "character_axis": "normal human (Q版)",
+  "style_type": "Q版anime",
+  "ref_head": "rur_helena_ref_head.png",
+  "ref_source": "same head as hr1",
+  "target_image": "p2_w029_du066 images (maid girl burning papers; reference only)",
+  "head_text": "a head.",
+  "content": {
+    "theme": "chibi 2.5D illustration of Helena burning the robot formula",
+    "action": "tragic heroine kneeling before a fireplace",
+    "action2": "pushing glowing burning secret manuscripts into fire",
+    "expression": "tearful resolute face",
+    "light": "dramatic orange fire glow",
+    "style": "retro sci-fi tragedy",
+    "background": "plain background",
+    "quality": "masterpiece",
+    "composition": "1:1 ratio"
+  },
+  "negative_original": "ugly monster, bloody dark gory, extra limbs, bad hands, deformed anatomy, bad eyes",
+  "templates": {
+    "sd": "{theme}, {action}, {action2}, {expression}, {light}, {style}, {background}, {quality}, {composition}",
+    "flux_ref": "Keep this woman's face and art style exactly the same as in the image. Show her in a {theme}, full body, zoomed out: a {action}, {action2}, with a {expression}, {light}. Style: {style}. {background}, {quality}, {composition}.",
+    "flux_noref": "A {theme}, full body, zoomed out: a {action}, {action2}, with a {expression}, {light}. Style: {style}. {background}, {quality}, {composition}."
+  },
+  "checklist_must": [
+    "dark wavy hair, pearl earrings, brown eyes (only from the reference: the prompt names none)",
+    "kneeling",
+    "fireplace",
+    "pushing burning manuscripts into the fire",
+    "tearful face",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "orange fire glow",
+    "resolute expression",
+    "plain background"
+  ],
+  "notes": [
+    "Prompt verbatim. The prompt does not mention clothing; du066's own images show a maid outfit (the 'maid' label in the week-12 plan comes from the images, not the prompt), so no outfit is scored.",
+    "du066 images draw a campfire, not a fireplace; scoring follows the prompt.",
+    "Clean identity test: hair colour and earrings can only come from the reference."
+  ]
+}
