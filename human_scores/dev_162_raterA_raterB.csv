@@ -1,0 +1,163 @@
+group,world,level,style_type,generator,seed,file,A_I,A_P,A_Q,B_I,B_P,B_Q
+AL1,w004,L1 复现,cartoon,FLUX.2-klein,42,al1_flux2klein4b_alice_ref_seed42.png,2,4,4,2,4,4
+AL1,w004,L1 复现,cartoon,FLUX.2-klein,123,al1_flux2klein4b_alice_ref_seed123.png,2,4,4,2,4,4
+AL1,w004,L1 复现,cartoon,FLUX.2-klein,777,al1_flux2klein4b_alice_ref_seed777.png,2,4,3,2,3,3
+AL1,w004,L1 复现,cartoon,AV5+IP-Adapter,42,al1_anythingv5_ipadapter_alice_ref_seed42.png,3,2,3,3,1,2
+AL1,w004,L1 复现,cartoon,AV5+IP-Adapter,123,al1_anythingv5_ipadapter_alice_ref_seed123.png,3,1,3,3,1,2
+AL1,w004,L1 复现,cartoon,AV5+IP-Adapter,777,al1_anythingv5_ipadapter_alice_ref_seed777.png,3,1,3,3,1,2
+QA1,w004,L1 复现,Q版anime,FLUX.2-klein,42,qa1_flux2klein4b_queen_ref_seed42.png,3,3,3,3,3,3
+QA1,w004,L1 复现,Q版anime,FLUX.2-klein,123,qa1_flux2klein4b_queen_ref_seed123.png,3,3,3,3,3,2
+QA1,w004,L1 复现,Q版anime,FLUX.2-klein,777,qa1_flux2klein4b_queen_ref_seed777.png,3,2,3,3,3,2
+QA1,w004,L1 复现,Q版anime,AV5+IP-Adapter,42,qa1_anythingv5_ipadapter_queen_ref_seed42.png,3,1,2,3,1,2
+QA1,w004,L1 复现,Q版anime,AV5+IP-Adapter,123,qa1_anythingv5_ipadapter_queen_ref_seed123.png,3,1,2,3,1,2
+QA1,w004,L1 复现,Q版anime,AV5+IP-Adapter,777,qa1_anythingv5_ipadapter_queen_ref_seed777.png,3,1,2,3,1,2
+CL1,w004,L1 复现,Q版anime（非人）,FLUX.2-klein,42,cl1_flux2klein4b_cheshire_ref_seed42.png,3,2,3,4,3,2
+CL1,w004,L1 复现,Q版anime（非人）,FLUX.2-klein,123,cl1_flux2klein4b_cheshire_ref_seed123.png,3,2,3,3,3,3
+CL1,w004,L1 复现,Q版anime（非人）,FLUX.2-klein,777,cl1_flux2klein4b_cheshire_ref_seed777.png,3,3,3,4,3,3
+CL1,w004,L1 复现,Q版anime（非人）,AV5+IP-Adapter,42,cl1_anythingv5_ipadapter_cheshire_ref_seed42.png,3,1,3,3,2,3
+CL1,w004,L1 复现,Q版anime（非人）,AV5+IP-Adapter,123,cl1_anythingv5_ipadapter_cheshire_ref_seed123.png,3,1,3,3,2,3
+CL1,w004,L1 复现,Q版anime（非人）,AV5+IP-Adapter,777,cl1_anythingv5_ipadapter_cheshire_ref_seed777.png,3,1,3,3,2,3
+B16,w004,L2 改变,cartoon,FLUX.2-klein,42,du003_img01_flux2klein4b_b16_alice_seed42.png,3,3,3,2,3,3
+B16,w004,L2 改变,cartoon,FLUX.2-klein,123,du003_img01_flux2klein4b_b16_alice_seed123.png,3,3,4,2,4,3
+B16,w004,L2 改变,cartoon,FLUX.2-klein,777,du003_img01_flux2klein4b_b16_alice_seed777.png,3,3,4,2,3,3
+B16,w004,L2 改变,cartoon,AV5+IP-Adapter,42,du003_img01_anythingv5_ipadapter_b16_alice_seed42.png,4,1,3,3,1,2
+B16,w004,L2 改变,cartoon,AV5+IP-Adapter,123,du003_img01_anythingv5_ipadapter_b16_alice_seed123.png,4,1,3,3,1,2
+B16,w004,L2 改变,cartoon,AV5+IP-Adapter,777,du003_img01_anythingv5_ipadapter_b16_alice_seed777.png,4,1,3,3,1,2
+TB1,w004,Task B 新角色,cartoon 世界 / 新角色,FLUX.2-klein,42,tb1_flux2klein4b_minguo_ref_seed42.png,3,3,3,3,4,3
+TB1,w004,Task B 新角色,cartoon 世界 / 新角色,FLUX.2-klein,123,tb1_flux2klein4b_minguo_ref_seed123.png,3,3,3,3,4,3
+TB1,w004,Task B 新角色,cartoon 世界 / 新角色,FLUX.2-klein,777,tb1_flux2klein4b_minguo_ref_seed777.png,3,3,3,3,4,3
+TB1,w004,Task B 新角色,cartoon 世界 / 新角色,AV5+IP-Adapter,42,tb1_anythingv5_ipadapter_minguo_ref_seed42.png,3,1,2,3,0,2
+TB1,w004,Task B 新角色,cartoon 世界 / 新角色,AV5+IP-Adapter,123,tb1_anythingv5_ipadapter_minguo_ref_seed123.png,3,1,2,3,0,2
+TB1,w004,Task B 新角色,cartoon 世界 / 新角色,AV5+IP-Adapter,777,tb1_anythingv5_ipadapter_minguo_ref_seed777.png,3,1,3,3,1,2
+od1,w006,L1 复现,Q版anime,FLUX.2-klein,42,od1_flux2klein4b_dorothy_ref_seed42.png,4,3,4,4,3,4
+od1,w006,L1 复现,Q版anime,FLUX.2-klein,123,od1_flux2klein4b_dorothy_ref_seed123.png,4,3,4,4,3,4
+od1,w006,L1 复现,Q版anime,FLUX.2-klein,777,od1_flux2klein4b_dorothy_ref_seed777.png,4,3,3,4,3,4
+od1,w006,L1 复现,Q版anime,AV5+IP-Adapter,42,od1_anythingv5_ipadapter_dorothy_ref_seed42.png,4,1,3,4,1,3
+od1,w006,L1 复现,Q版anime,AV5+IP-Adapter,123,od1_anythingv5_ipadapter_dorothy_ref_seed123.png,4,2,3,4,1,3
+od1,w006,L1 复现,Q版anime,AV5+IP-Adapter,777,od1_anythingv5_ipadapter_dorothy_ref_seed777.png,4,1,3,4,1,3
+od2,w006,L2 改变,Q版anime,FLUX.2-klein,42,od2_flux2klein4b_dorothy_ref_seed42.png,4,3,4,3,4,4
+od2,w006,L2 改变,Q版anime,FLUX.2-klein,123,od2_flux2klein4b_dorothy_ref_seed123.png,4,3,4,3,4,4
+od2,w006,L2 改变,Q版anime,FLUX.2-klein,777,od2_flux2klein4b_dorothy_ref_seed777.png,4,3,4,3,4,4
+od2,w006,L2 改变,Q版anime,AV5+IP-Adapter,42,od2_anythingv5_ipadapter_dorothy_ref_seed42.png,3,1,3,3,1,2
+od2,w006,L2 改变,Q版anime,AV5+IP-Adapter,123,od2_anythingv5_ipadapter_dorothy_ref_seed123.png,3,1,3,3,1,2
+od2,w006,L2 改变,Q版anime,AV5+IP-Adapter,777,od2_anythingv5_ipadapter_dorothy_ref_seed777.png,3,1,3,3,1,3
+ol1,w006,L1 复现,Q版cartoon（非人）,FLUX.2-klein,42,ol1_flux2klein4b_lion_ref_seed42.png,4,3,3,3,3,4
+ol1,w006,L1 复现,Q版cartoon（非人）,FLUX.2-klein,123,ol1_flux2klein4b_lion_ref_seed123.png,4,3,4,3,3,4
+ol1,w006,L1 复现,Q版cartoon（非人）,FLUX.2-klein,777,ol1_flux2klein4b_lion_ref_seed777.png,4,3,3,3,3,4
+ol1,w006,L1 复现,Q版cartoon（非人）,AV5+IP-Adapter,42,ol1_anythingv5_ipadapter_lion_ref_seed42.png,2,2,3,2,1,3
+ol1,w006,L1 复现,Q版cartoon（非人）,AV5+IP-Adapter,123,ol1_anythingv5_ipadapter_lion_ref_seed123.png,2,2,3,3,1,3
+ol1,w006,L1 复现,Q版cartoon（非人）,AV5+IP-Adapter,777,ol1_anythingv5_ipadapter_lion_ref_seed777.png,2,2,3,3,1,3
+ow1,w006,L1 复现,cartoon（老年男性）,FLUX.2-klein,42,ow1_flux2klein4b_wizard_ref_seed42.png,3,4,4,3,4,4
+ow1,w006,L1 复现,cartoon（老年男性）,FLUX.2-klein,123,ow1_flux2klein4b_wizard_ref_seed123.png,3,4,4,3,4,4
+ow1,w006,L1 复现,cartoon（老年男性）,FLUX.2-klein,777,ow1_flux2klein4b_wizard_ref_seed777.png,3,4,4,3,4,4
+ow1,w006,L1 复现,cartoon（老年男性）,AV5+IP-Adapter,42,ow1_anythingv5_ipadapter_wizard_ref_seed42.png,2,1,3,3,1,3
+ow1,w006,L1 复现,cartoon（老年男性）,AV5+IP-Adapter,123,ow1_anythingv5_ipadapter_wizard_ref_seed123.png,2,1,3,2,1,3
+ow1,w006,L1 复现,cartoon（老年男性）,AV5+IP-Adapter,777,ow1_anythingv5_ipadapter_wizard_ref_seed777.png,2,2,3,3,2,3
+ob1,w006,Task B 新角色,Q版anime 世界 / 新角色,FLUX.2-klein,42,ob1_flux2klein4b_minguo_ref_seed42.png,3,3,3,2,4,4
+ob1,w006,Task B 新角色,Q版anime 世界 / 新角色,FLUX.2-klein,123,ob1_flux2klein4b_minguo_ref_seed123.png,3,3,3,2,4,4
+ob1,w006,Task B 新角色,Q版anime 世界 / 新角色,FLUX.2-klein,777,ob1_flux2klein4b_minguo_ref_seed777.png,3,3,3,2,4,4
+ob1,w006,Task B 新角色,Q版anime 世界 / 新角色,AV5+IP-Adapter,42,ob1_anythingv5_ipadapter_minguo_ref_seed42.png,3,1,3,3,1,3
+ob1,w006,Task B 新角色,Q版anime 世界 / 新角色,AV5+IP-Adapter,123,ob1_anythingv5_ipadapter_minguo_ref_seed123.png,3,1,3,3,1,3
+ob1,w006,Task B 新角色,Q版anime 世界 / 新角色,AV5+IP-Adapter,777,ob1_anythingv5_ipadapter_minguo_ref_seed777.png,3,1,3,3,1,2
+cb1,w014,Task B 新角色,Q版anime,FLUX.2-klein,42,cb1_flux2klein4b_minguo_ref_seed42.png,3,4,4,2,4,4
+cb1,w014,Task B 新角色,Q版anime,FLUX.2-klein,123,cb1_flux2klein4b_minguo_ref_seed123.png,3,4,4,2,4,4
+cb1,w014,Task B 新角色,Q版anime,FLUX.2-klein,777,cb1_flux2klein4b_minguo_ref_seed777.png,3,4,4,2,4,4
+cb1,w014,Task B 新角色,Q版anime,AV5+IP-Adapter,42,cb1_anythingv5_ipadapter_minguo_ref_seed42.png,3,1,4,3,1,3
+cb1,w014,Task B 新角色,Q版anime,AV5+IP-Adapter,123,cb1_anythingv5_ipadapter_minguo_ref_seed123.png,3,1,4,3,1,3
+cb1,w014,Task B 新角色,Q版anime,AV5+IP-Adapter,777,cb1_anythingv5_ipadapter_minguo_ref_seed777.png,3,1,4,3,0,3
+cc1,w014,L1 复现,Q版cartoon,FLUX.2-klein,42,cc1_flux2klein4b_thurston_cartoon_ref_seed42.png,3,4,4,3,4,3
+cc1,w014,L1 复现,Q版cartoon,FLUX.2-klein,123,cc1_flux2klein4b_thurston_cartoon_ref_seed123.png,2,4,4,3,4,3
+cc1,w014,L1 复现,Q版cartoon,FLUX.2-klein,777,cc1_flux2klein4b_thurston_cartoon_ref_seed777.png,3,4,4,3,4,3
+cc1,w014,L1 复现,Q版cartoon,AV5+IP-Adapter,42,cc1_anythingv5_ipadapter_thurston_cartoon_ref_seed42.png,2,1,3,2,2,3
+cc1,w014,L1 复现,Q版cartoon,AV5+IP-Adapter,123,cc1_anythingv5_ipadapter_thurston_cartoon_ref_seed123.png,2,1,3,2,2,2
+cc1,w014,L1 复现,Q版cartoon,AV5+IP-Adapter,777,cc1_anythingv5_ipadapter_thurston_cartoon_ref_seed777.png,2,1,3,2,2,2
+ck1,w014,L1 复现,Q版cartoon,FLUX.2-klein,42,ck1_flux2klein4b_cthulhu_ref_seed42.png,4,4,4,4,4,4
+ck1,w014,L1 复现,Q版cartoon,FLUX.2-klein,123,ck1_flux2klein4b_cthulhu_ref_seed123.png,4,4,4,4,4,4
+ck1,w014,L1 复现,Q版cartoon,FLUX.2-klein,777,ck1_flux2klein4b_cthulhu_ref_seed777.png,4,4,4,4,4,4
+ck1,w014,L1 复现,Q版cartoon,AV5+IP-Adapter,42,ck1_anythingv5_ipadapter_cthulhu_ref_seed42.png,3,1,3,3,2,3
+ck1,w014,L1 复现,Q版cartoon,AV5+IP-Adapter,123,ck1_anythingv5_ipadapter_cthulhu_ref_seed123.png,2,1,3,3,2,3
+ck1,w014,L1 复现,Q版cartoon,AV5+IP-Adapter,777,ck1_anythingv5_ipadapter_cthulhu_ref_seed777.png,3,1,3,3,2,3
+ct1,w014,L1 复现,Q版anime,FLUX.2-klein,42,ct1_flux2klein4b_thurston_ref_seed42.png,4,3,4,4,4,4
+ct1,w014,L1 复现,Q版anime,FLUX.2-klein,123,ct1_flux2klein4b_thurston_ref_seed123.png,4,3,4,4,4,4
+ct1,w014,L1 复现,Q版anime,FLUX.2-klein,777,ct1_flux2klein4b_thurston_ref_seed777.png,4,3,3,4,4,4
+ct1,w014,L1 复现,Q版anime,AV5+IP-Adapter,42,ct1_anythingv5_ipadapter_thurston_ref_seed42.png,4,1,2,3,1,2
+ct1,w014,L1 复现,Q版anime,AV5+IP-Adapter,123,ct1_anythingv5_ipadapter_thurston_ref_seed123.png,4,1,3,3,1,3
+ct1,w014,L1 复现,Q版anime,AV5+IP-Adapter,777,ct1_anythingv5_ipadapter_thurston_ref_seed777.png,4,1,3,3,1,3
+ct2,w014,L2 改变,Q版anime,FLUX.2-klein,42,ct2_flux2klein4b_thurston_ref_seed42.png,3,4,4,4,3,4
+ct2,w014,L2 改变,Q版anime,FLUX.2-klein,123,ct2_flux2klein4b_thurston_ref_seed123.png,3,4,4,4,4,4
+ct2,w014,L2 改变,Q版anime,FLUX.2-klein,777,ct2_flux2klein4b_thurston_ref_seed777.png,3,4,4,4,3,4
+ct2,w014,L2 改变,Q版anime,AV5+IP-Adapter,42,ct2_anythingv5_ipadapter_thurston_ref_seed42.png,2,2,3,1,2,3
+ct2,w014,L2 改变,Q版anime,AV5+IP-Adapter,123,ct2_anythingv5_ipadapter_thurston_ref_seed123.png,2,1,3,1,2,3
+ct2,w014,L2 改变,Q版anime,AV5+IP-Adapter,777,ct2_anythingv5_ipadapter_thurston_ref_seed777.png,2,1,3,1,2,3
+cx1,w014,L1 复现 （补充）,Q版anime,FLUX.2-klein,42,cx1_flux2klein4b_legrasse_ref_seed42.png,4,3,3,4,4,4
+cx1,w014,L1 复现 （补充）,Q版anime,FLUX.2-klein,123,cx1_flux2klein4b_legrasse_ref_seed123.png,4,3,3,4,4,3
+cx1,w014,L1 复现 （补充）,Q版anime,FLUX.2-klein,777,cx1_flux2klein4b_legrasse_ref_seed777.png,4,3,3,4,4,3
+cx1,w014,L1 复现 （补充）,Q版anime,AV5+IP-Adapter,42,cx1_anythingv5_ipadapter_legrasse_ref_seed42.png,1,1,3,2,1,3
+cx1,w014,L1 复现 （补充）,Q版anime,AV5+IP-Adapter,123,cx1_anythingv5_ipadapter_legrasse_ref_seed123.png,1,1,3,2,1,3
+cx1,w014,L1 复现 （补充）,Q版anime,AV5+IP-Adapter,777,cx1_anythingv5_ipadapter_legrasse_ref_seed777.png,1,1,3,2,1,3
+va1,w022,L1 复现 （补充）,Q版anime,FLUX.2-klein,42,va1_flux2klein4b_missaubrey_ref_seed42.png,4,4,4,4,4,4
+va1,w022,L1 复现 （补充）,Q版anime,FLUX.2-klein,123,va1_flux2klein4b_missaubrey_ref_seed123.png,4,4,4,4,4,4
+va1,w022,L1 复现 （补充）,Q版anime,FLUX.2-klein,777,va1_flux2klein4b_missaubrey_ref_seed777.png,4,3,4,4,4,4
+va1,w022,L1 复现 （补充）,Q版anime,AV5+IP-Adapter,42,va1_anythingv5_ipadapter_missaubrey_ref_seed42.png,4,1,3,4,1,3
+va1,w022,L1 复现 （补充）,Q版anime,AV5+IP-Adapter,123,va1_anythingv5_ipadapter_missaubrey_ref_seed123.png,4,1,3,4,1,3
+va1,w022,L1 复现 （补充）,Q版anime,AV5+IP-Adapter,777,va1_anythingv5_ipadapter_missaubrey_ref_seed777.png,4,1,3,4,1,3
+vb1,w022,Task B 新角色,Q版anime,FLUX.2-klein,42,vb1_flux2klein4b_minguo_ref_seed42.png,3,4,4,2,4,4
+vb1,w022,Task B 新角色,Q版anime,FLUX.2-klein,123,vb1_flux2klein4b_minguo_ref_seed123.png,3,4,4,2,4,4
+vb1,w022,Task B 新角色,Q版anime,FLUX.2-klein,777,vb1_flux2klein4b_minguo_ref_seed777.png,3,4,4,2,4,4
+vb1,w022,Task B 新角色,Q版anime,AV5+IP-Adapter,42,vb1_anythingv5_ipadapter_minguo_ref_seed42.png,3,0,3,3,0,3
+vb1,w022,Task B 新角色,Q版anime,AV5+IP-Adapter,123,vb1_anythingv5_ipadapter_minguo_ref_seed123.png,3,0,3,3,0,3
+vb1,w022,Task B 新角色,Q版anime,AV5+IP-Adapter,777,vb1_anythingv5_ipadapter_minguo_ref_seed777.png,3,0,3,3,1,3
+vc1,w022,L1 复现,Q版cartoon,FLUX.2-klein,42,vc1_flux2klein4b_missaubrey_cartoon_ref_seed42.png,3,4,4,3,4,4
+vc1,w022,L1 复现,Q版cartoon,FLUX.2-klein,123,vc1_flux2klein4b_missaubrey_cartoon_ref_seed123.png,3,4,4,3,4,4
+vc1,w022,L1 复现,Q版cartoon,FLUX.2-klein,777,vc1_flux2klein4b_missaubrey_cartoon_ref_seed777.png,3,4,4,3,4,4
+vc1,w022,L1 复现,Q版cartoon,AV5+IP-Adapter,42,vc1_anythingv5_ipadapter_missaubrey_cartoon_ref_seed42.png,2,1,3,2,1,3
+vc1,w022,L1 复现,Q版cartoon,AV5+IP-Adapter,123,vc1_anythingv5_ipadapter_missaubrey_cartoon_ref_seed123.png,2,2,3,2,2,3
+vc1,w022,L1 复现,Q版cartoon,AV5+IP-Adapter,777,vc1_anythingv5_ipadapter_missaubrey_cartoon_ref_seed777.png,2,2,3,2,1,3
+ve1,w022,L1 复现 （补充）,anime,FLUX.2-klein,42,ve1_flux2klein4b_eleanor_ref_seed42.png,2,3,3,2,4,3
+ve1,w022,L1 复现 （补充）,anime,FLUX.2-klein,123,ve1_flux2klein4b_eleanor_ref_seed123.png,2,3,3,2,4,3
+ve1,w022,L1 复现 （补充）,anime,FLUX.2-klein,777,ve1_flux2klein4b_eleanor_ref_seed777.png,2,3,3,2,4,3
+ve1,w022,L1 复现 （补充）,anime,AV5+IP-Adapter,42,ve1_anythingv5_ipadapter_eleanor_ref_seed42.png,4,1,3,4,1,3
+ve1,w022,L1 复现 （补充）,anime,AV5+IP-Adapter,123,ve1_anythingv5_ipadapter_eleanor_ref_seed123.png,4,1,3,4,1,3
+ve1,w022,L1 复现 （补充）,anime,AV5+IP-Adapter,777,ve1_anythingv5_ipadapter_eleanor_ref_seed777.png,4,1,3,4,1,3
+vr1,w022,L1 复现,Q版anime,FLUX.2-klein,42,vr1_flux2klein4b_ruthven_ref_seed42.png,4,4,4,4,4,4
+vr1,w022,L1 复现,Q版anime,FLUX.2-klein,123,vr1_flux2klein4b_ruthven_ref_seed123.png,4,4,4,4,4,4
+vr1,w022,L1 复现,Q版anime,FLUX.2-klein,777,vr1_flux2klein4b_ruthven_ref_seed777.png,4,4,4,4,4,4
+vr1,w022,L1 复现,Q版anime,AV5+IP-Adapter,42,vr1_anythingv5_ipadapter_ruthven_ref_seed42.png,3,2,3,3,2,3
+vr1,w022,L1 复现,Q版anime,AV5+IP-Adapter,123,vr1_anythingv5_ipadapter_ruthven_ref_seed123.png,3,2,3,3,1,3
+vr1,w022,L1 复现,Q版anime,AV5+IP-Adapter,777,vr1_anythingv5_ipadapter_ruthven_ref_seed777.png,3,2,3,3,1,3
+vr2,w022,L2 改变,Q版anime,FLUX.2-klein,42,vr2_flux2klein4b_ruthven_ref_seed42.png,2,4,4,2,4,4
+vr2,w022,L2 改变,Q版anime,FLUX.2-klein,123,vr2_flux2klein4b_ruthven_ref_seed123.png,2,4,4,2,4,4
+vr2,w022,L2 改变,Q版anime,FLUX.2-klein,777,vr2_flux2klein4b_ruthven_ref_seed777.png,2,4,4,2,4,4
+vr2,w022,L2 改变,Q版anime,AV5+IP-Adapter,42,vr2_anythingv5_ipadapter_ruthven_ref_seed42.png,3,2,3,3,2,3
+vr2,w022,L2 改变,Q版anime,AV5+IP-Adapter,123,vr2_anythingv5_ipadapter_ruthven_ref_seed123.png,3,2,3,3,2,3
+vr2,w022,L2 改变,Q版anime,AV5+IP-Adapter,777,vr2_anythingv5_ipadapter_ruthven_ref_seed777.png,3,2,3,3,2,3
+dc1,w029,L1 复现,Q版cartoon,FLUX.2-klein,42,dc1_flux2klein4b_domin_ref_seed42.png,4,4,4,3,4,4
+dc1,w029,L1 复现,Q版cartoon,FLUX.2-klein,123,dc1_flux2klein4b_domin_ref_seed123.png,3,4,4,3,4,4
+dc1,w029,L1 复现,Q版cartoon,FLUX.2-klein,777,dc1_flux2klein4b_domin_ref_seed777.png,4,4,4,3,4,4
+dc1,w029,L1 复现,Q版cartoon,AV5+IP-Adapter,42,dc1_anythingv5_ipadapter_domin_ref_seed42.png,3,1,3,3,2,3
+dc1,w029,L1 复现,Q版cartoon,AV5+IP-Adapter,123,dc1_anythingv5_ipadapter_domin_ref_seed123.png,3,2,3,3,1,3
+dc1,w029,L1 复现,Q版cartoon,AV5+IP-Adapter,777,dc1_anythingv5_ipadapter_domin_ref_seed777.png,3,1,3,3,1,3
+hb1,w029,Task B 新角色,Q版anime,FLUX.2-klein,42,hb1_flux2klein4b_minguo_ref_seed42.png,3,4,4,2,4,4
+hb1,w029,Task B 新角色,Q版anime,FLUX.2-klein,123,hb1_flux2klein4b_minguo_ref_seed123.png,3,4,4,2,4,4
+hb1,w029,Task B 新角色,Q版anime,FLUX.2-klein,777,hb1_flux2klein4b_minguo_ref_seed777.png,3,4,4,2,4,4
+hb1,w029,Task B 新角色,Q版anime,AV5+IP-Adapter,42,hb1_anythingv5_ipadapter_minguo_ref_seed42.png,3,0,3,3,0,3
+hb1,w029,Task B 新角色,Q版anime,AV5+IP-Adapter,123,hb1_anythingv5_ipadapter_minguo_ref_seed123.png,3,0,3,3,0,3
+hb1,w029,Task B 新角色,Q版anime,AV5+IP-Adapter,777,hb1_anythingv5_ipadapter_minguo_ref_seed777.png,3,0,3,3,0,3
+hr1,w029,L1 复现,Q版anime,FLUX.2-klein,42,hr1_flux2klein4b_helena_ref_seed42.png,4,4,3,4,4,3
+hr1,w029,L1 复现,Q版anime,FLUX.2-klein,123,hr1_flux2klein4b_helena_ref_seed123.png,4,4,3,4,4,4
+hr1,w029,L1 复现,Q版anime,FLUX.2-klein,777,hr1_flux2klein4b_helena_ref_seed777.png,4,4,3,4,4,4
+hr1,w029,L1 复现,Q版anime,AV5+IP-Adapter,42,hr1_anythingv5_ipadapter_helena_ref_seed42.png,3,1,3,3,1,3
+hr1,w029,L1 复现,Q版anime,AV5+IP-Adapter,123,hr1_anythingv5_ipadapter_helena_ref_seed123.png,3,1,3,3,1,3
+hr1,w029,L1 复现,Q版anime,AV5+IP-Adapter,777,hr1_anythingv5_ipadapter_helena_ref_seed777.png,3,1,3,3,1,3
+hr2,w029,L2 改变,Q版anime,FLUX.2-klein,42,hr2_flux2klein4b_helena_ref_seed42.png,2,4,4,2,4,4
+hr2,w029,L2 改变,Q版anime,FLUX.2-klein,123,hr2_flux2klein4b_helena_ref_seed123.png,2,4,4,2,4,4
+hr2,w029,L2 改变,Q版anime,FLUX.2-klein,777,hr2_flux2klein4b_helena_ref_seed777.png,2,4,4,2,4,4
+hr2,w029,L2 改变,Q版anime,AV5+IP-Adapter,42,hr2_anythingv5_ipadapter_helena_ref_seed42.png,3,2,3,3,2,3
+hr2,w029,L2 改变,Q版anime,AV5+IP-Adapter,123,hr2_anythingv5_ipadapter_helena_ref_seed123.png,3,2,3,3,2,2
+hr2,w029,L2 改变,Q版anime,AV5+IP-Adapter,777,hr2_anythingv5_ipadapter_helena_ref_seed777.png,3,2,3,3,1,3
+rr1,w029,L1 复现,Q版anime,FLUX.2-klein,42,rr1_flux2klein4b_radius_ref_seed42.png,4,4,4,4,4,4
+rr1,w029,L1 复现,Q版anime,FLUX.2-klein,123,rr1_flux2klein4b_radius_ref_seed123.png,4,4,4,4,4,4
+rr1,w029,L1 复现,Q版anime,FLUX.2-klein,777,rr1_flux2klein4b_radius_ref_seed777.png,4,4,4,4,4,4
+rr1,w029,L1 复现,Q版anime,AV5+IP-Adapter,42,rr1_anythingv5_ipadapter_radius_ref_seed42.png,3,1,3,2,1,3
+rr1,w029,L1 复现,Q版anime,AV5+IP-Adapter,123,rr1_anythingv5_ipadapter_radius_ref_seed123.png,3,1,3,1,1,3
+rr1,w029,L1 复现,Q版anime,AV5+IP-Adapter,777,rr1_anythingv5_ipadapter_radius_ref_seed777.png,3,1,3,1,1,2

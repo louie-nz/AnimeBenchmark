@@ -373,6 +373,7 @@ FodyWeavers.xsd
 !/scripts/
 !/results/
 !/ProjectProposal/
+!/human_scores/
 
 # 放行的文件夹里也不要大文件和图片
 *.zip
