@@ -1,0 +1,7 @@
+file,world,group,model,ref_cond,seed,level,style_type,supplementary,I_vlm,P_vlm,Q_vlm,total_vlm,vqa_prompt
+cl1_flux2klein4b_cheshire_ref_seed123.png,w004,cl1,flux2klein4b,ref,123,L1,Q版anime,0,2.612,2.377,3.289,68.3,0.9797
+cl1_flux2klein4b_cheshire_ref_seed42.png,w004,cl1,flux2klein4b,ref,42,L1,Q版anime,0,3.219,2.86,3.403,78.8,0.989
+cl1_flux2klein4b_cheshire_ref_seed777.png,w004,cl1,flux2klein4b,ref,777,L1,Q版anime,0,3.315,3.407,3.317,83.7,0.9948
+cl1_anythingv5_ipadapter_cheshire_ref_seed123.png,w004,cl1,anythingv5_ipadapter,ref,123,L1,Q版anime,0,0.56,1.567,3.26,35.5,0.8355
+cl1_anythingv5_ipadapter_cheshire_ref_seed42.png,w004,cl1,anythingv5_ipadapter,ref,42,L1,Q版anime,0,1.682,3.165,3.283,64.9,0.133
+cl1_anythingv5_ipadapter_cheshire_ref_seed777.png,w004,cl1,anythingv5_ipadapter,ref,777,L1,Q版anime,0,0.922,2.265,3.229,47.2,0.5927

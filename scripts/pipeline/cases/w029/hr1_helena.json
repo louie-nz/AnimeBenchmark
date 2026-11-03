@@ -1,0 +1,49 @@
+{
+  "group": "hr1",
+  "character": "helena",
+  "world": "w029",
+  "design_id": "p2_w029_du033",
+  "level": "L1",
+  "character_axis": "normal human (Q版)",
+  "style_type": "Q版anime",
+  "ref_head": "rur_helena_ref_head.png",
+  "ref_source": "p2_w029_du033_img02.png (standing, grey background, pearl earrings, blue scarf)",
+  "target_image": "p2_w029_du033_img01.png (hands clasped, gazing at a small robot, papers, flames)",
+  "head_text": "a head.",
+  "content": {
+    "theme": "Helena Glory, cute chibi idealist",
+    "subject": "2.5-head chibi elegant woman",
+    "costume": "light suit, scarf, pearl accessories",
+    "colors": "cream white, light blue, pearl grey, rose red",
+    "action": "hands clasped, gazing at robot, compassionate look",
+    "props": "humanity league badge, robot, letters, flame, formula manuscript",
+    "composition": "centered, plain solid background, 1:1 square composition",
+    "quality": "high quality, no text, no watermark"
+  },
+  "negative_original": "watermark, letters, autograph, real photograph, official artwork, additional fingers, distorted hands, poor resolution, busy background, fuzzy",
+  "templates": {
+    "sd": "{theme}, {subject}, {costume}, {colors}, {action}, {props}, {composition}, {quality}",
+    "flux_ref": "Keep this woman's face and art style exactly the same as in the image. She is {theme}, a {subject}. Show her full body, zoomed out. Outfit: {costume}. Colors: {colors}. She is {action}. Props: {props}. Composition: {composition}. {quality}.",
+    "flux_noref": "{theme}, a {subject}. Full body, zoomed out. Outfit: {costume}. Colors: {colors}. She is {action}. Props: {props}. Composition: {composition}. {quality}."
+  },
+  "checklist_must": [
+    "dark wavy shoulder-length hair, brown eyes, pearl earrings (reference)",
+    "cream light suit + light blue scarf",
+    "hands clasped, looking at a robot",
+    "a robot present",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "compassionate look",
+    "badge",
+    "letters / formula manuscript",
+    "flame",
+    "plain solid background"
+  ],
+  "notes": [
+    "Prompt verbatim.",
+    "DATA: du033 and du034 have identical positive prompts (another dataset duplication), which is why the week-12 L2 for w029 used du066 instead of du034.",
+    "img02 is drawn in a slightly more mature sticker style (red lips, sharper eyes); identity is judged on hair, eyes, pearls and scarf.",
+    "Same reference head is reused for hr2 (L2)."
+  ]
+}

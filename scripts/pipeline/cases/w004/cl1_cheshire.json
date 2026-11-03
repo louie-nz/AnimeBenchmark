@@ -1,0 +1,49 @@
+{
+  "group": "cl1",
+  "character": "cheshire",
+  "world": "w004",
+  "design_id": "p2_w004_du087",
+  "level": "L1",
+  "character_axis": "non-human",
+  "style_type": "Q版anime",
+  "ref_head": "wl1_cat_ref_head.png",
+  "ref_source": "p2_w004_du087_img01.png (standing, eyes open, toothy grin)",
+  "target_image": "p2_w004_du087_img02.png (floating, eyes closed, body fading)",
+  "head_text": "a cat head.",
+  "content": {
+    "theme": "Cheshire Cat, cute chibi character design",
+    "proportion": "2.5-head proportion",
+    "subject": "purple and gray striped cat",
+    "state": "disappearing body",
+    "expression": "wide mysterious grin",
+    "eyes": "large green eyes",
+    "pose": "floating posture",
+    "background": "simple clean background",
+    "composition": "1:1 square composition",
+    "quality": "high quality",
+    "style": "magical surreal style"
+  },
+  "negative_original": "watermark, text, realistic photo, scary, extra limbs, low resolution, messy background, too normal",
+  "templates": {
+    "sd": "{theme}, {proportion}, {subject}, {state}, {expression}, {eyes}, {pose}, {background}, {composition}, {quality}, {style}",
+    "flux_ref": "Keep this cat's face and art style exactly the same as in the image. It is the {theme}, {proportion}, a {subject}. Show its full body, zoomed out. Body: {state}. It has a {expression} and {eyes}, in a {pose}. {background}, {composition}. {quality}, {style}.",
+    "flux_noref": "The {theme}, {proportion}, a {subject}. Full body, zoomed out. Body: {state}. It has a {expression} and {eyes}, in a {pose}. {background}, {composition}. {quality}, {style}."
+  },
+  "checklist_must": [
+    "pink/purple striped cat (reference)",
+    "wide grin",
+    "floating",
+    "body partly fading / disappearing",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "chibi proportions",
+    "clean background",
+    "magical surreal feel",
+    "soft watercolor look (reference style)"
+  ],
+  "notes": [
+    "Reference vs prompt conflict: prompt says 'purple and gray' + 'large green eyes'; reference is pink-purple with purple-yellow eyes. Record which source the model follows (eye colour is a clean test).",
+    "Non-human: head detection uses 'a cat head.'"
+  ]
+}

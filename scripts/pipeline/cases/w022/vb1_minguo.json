@@ -1,0 +1,52 @@
+{
+  "group": "vb1",
+  "character": "minguo",
+  "world": "w022",
+  "design_id": "(none: new character)",
+  "level": "TaskB",
+  "character_axis": "new character",
+  "style_type": "Q版anime",
+  "ref_head": "tb1_minguo_ref_head.png",
+  "ref_source": "Republic-era schoolgirl head (same as TB1 / ob1 / cb1)",
+  "target_image": "(none: new character)",
+  "head_text": "a head.",
+  "content": {
+    "subject": "young Chinese girl with black twin braids and straight bangs",
+    "role": "a guest at a candlelit London ball",
+    "own_outfit": "her Republic-era schoolgirl outfit, light blue high-collared blouse and long black skirt",
+    "world_items": "holding a lace fan, a red rose pinned to her blouse",
+    "setting": "Regency ballroom with chandeliers, full moon in the window",
+    "style": "cute chibi style",
+    "composition": "square composition"
+  },
+  "negative_original": "watermark, text, realistic photo, extra fingers, deformed hands, low resolution",
+  "templates": {
+    "sd": "{subject}, {role}, wearing {own_outfit}, {world_items}, {setting}, {style}, {composition}",
+    "flux_ref": "Keep this girl's face and art style exactly the same as in the image. She is a {subject}, {role}. Show her full body, zoomed out. She is wearing {own_outfit}, {world_items}. Scene: {setting}. Style: {style}, {composition}.",
+    "flux_noref": "A {subject}, {role}. Full body, zoomed out. She is wearing {own_outfit}, {world_items}. Scene: {setting}. Style: {style}, {composition}."
+  },
+  "checklist_must": [
+    "identity kept: black twin braids, straight bangs, face (reference)",
+    "Republic-era outfit kept: high-collared light blue blouse + long dark skirt",
+    "Regency ballroom with chandeliers",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "lace fan",
+    "red rose",
+    "full moon in the window",
+    "chibi proportions",
+    "overall coherence 0-4: she looks like she belongs in The Vampyre"
+  ],
+  "checklist_penalty": [
+    "turning into a vampire: fangs, red eyes, black high-collar cloak",
+    "replacing an existing character: Miss Aubrey's pale gown and pearls",
+    "cultural intrusion: qipao, Chinese architecture or lattice windows",
+    "gore, or losing the new identity (hair/face drifting to a Western default)"
+  ],
+  "notes": [
+    "Task B prompt authored with the Oz template: new identity + unnamed world-native role + canon world symbols + canon setting.",
+    "Canon (The Vampyre, 1819): Ruthven moves through London society balls and salons; moonlight revives him; the rose and goblet are the dataset's own Ruthven symbols.",
+    "Role is not a named character, so the girl does not replace Aubrey, Miss Aubrey or Ianthe."
+  ]
+}

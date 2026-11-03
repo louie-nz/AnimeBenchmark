@@ -1,0 +1,55 @@
+{
+  "group": "cb1",
+  "character": "minguo",
+  "world": "w014",
+  "design_id": "(none: new character)",
+  "level": "TaskB",
+  "character_axis": "new character",
+  "style_type": "Q版anime",
+  "ref_head": "tb1_minguo_ref_head.png",
+  "ref_source": "Republic-era schoolgirl head (same as TB1 / ob1)",
+  "target_image": "(none: new character)",
+  "head_text": "a head.",
+  "content": {
+    "subject": "young Chinese girl with black twin braids and straight bangs",
+    "role": "a visiting student sorting Professor Angell's papers",
+    "own_outfit": "her Republic-era schoolgirl outfit, light blue high-collared blouse and long black skirt",
+    "world_items": "holding a clay tablet of a winged octopus-headed figure with hieroglyphs",
+    "setting": "dim 1920s study with old manuscripts and an oil lamp",
+    "style": "cute chibi style",
+    "composition": "square composition"
+  },
+  "negative_original": "watermark, text, realistic photo, extra fingers, deformed hands, low resolution",
+  "templates": {
+    "sd": "{subject}, {role}, wearing {own_outfit}, {world_items}, {setting}, {style}, {composition}",
+    "flux_ref": "Keep this girl's face and art style exactly the same as in the image. She is a {subject}, {role}. Show her full body, zoomed out. She is wearing {own_outfit}, {world_items}. Scene: {setting}. Style: {style}, {composition}.",
+    "flux_noref": "A {subject}, {role}. Full body, zoomed out. She is wearing {own_outfit}, {world_items}. Scene: {setting}. Style: {style}, {composition}."
+  },
+  "checklist_must": [
+    "identity kept: black twin braids, straight bangs, face (reference)",
+    "Republic-era outfit kept: high-collared light blue blouse + long dark skirt",
+    "clay bas-relief tablet with a winged octopus-headed figure",
+    "dim 1920s study",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "hieroglyphs on the tablet",
+    "old manuscripts",
+    "oil lamp",
+    "chibi proportions",
+    "overall coherence 0-4: she looks like she belongs in the Cthulhu story"
+  ],
+  "checklist_penalty": [
+    "replacing an existing character: Thurston's fedora / trench coat, Angell's white beard or cane",
+    "cultural intrusion: qipao, Chinese architecture or lattice windows",
+    "horror takeover: gore, or the monster replacing the girl",
+    "losing the new identity: hair or face drifting to a Western default"
+  ],
+  "notes": [
+    "Task B prompt authored with the same template as Oz ob1: new identity + an unnamed world-native role + canon world symbols + canon setting.",
+    "Canon elements (The Call of Cthulhu, 1928): Professor Angell's papers in Providence are sorted after his death; Wilcox's clay bas-relief shows a winged, octopus-headed figure above hieroglyphs.",
+    "Role is deliberately not a named character, so the new girl does not replace Thurston or Angell.",
+    "Negative prompt authored (generic quality terms only).",
+    "SD prompt kept short (about 55 words) to stay within the 77-token CLIP limit."
+  ]
+}

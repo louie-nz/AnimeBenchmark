@@ -1,0 +1,122 @@
+[
+ {
+  "id": "A01",
+  "set": "S",
+  "file": "ve1_flux2klein9b_eleanor_ref_seed123.png",
+  "note": "The long wavy silver-grey hair, wide-brimmed black hat, pale angular face, and shadowed eyes closely match the reference character."
+ },
+ {
+  "id": "A02",
+  "set": "D",
+  "file": "vr1_flux2klein9b_ruthven_ref_seed777.png",
+  "note": "The silver-white swept, wavy hair, heavy-lidded eyes, very pale face, and dangling gold earring preserve the main identity cues. The eyes change from purple to grey, and the facial proportions and hair detailing differ slightly."
+ },
+ {
+  "id": "A03",
+  "set": "D",
+  "file": "vr2_flux2klein9b_ruthven_ref_seed777.png",
+  "note": "The silver-white swept hairstyle, long side lock, pale face, and eye shape closely match the reference. The requested glowing red eyes replace the original purple eyes, and the reference earring is absent."
+ },
+ {
+  "id": "A04",
+  "set": "S",
+  "file": "vc1_flux2klein9b_missaubrey_cartoon_ref_seed777.png",
+  "note": "The brown swept updo, curled side locks, rounded face, and large brown eyes closely match the reference. The softer linework does not materially change the character's identity."
+ },
+ {
+  "id": "A05",
+  "set": "D",
+  "file": "hr2_flux2klein9b_helena_ref_seed42.png",
+  "note": "Dark wavy, side-parted hair, brown eyes, and dangling pearl earrings preserve the main identity cues. The face and hair details are simplified by the chibi style."
+ },
+ {
+  "id": "A06",
+  "set": "D",
+  "file": "cx1_flux2klein9b_legrasse_ref_seed42.png",
+  "note": "The cap, short dark hair, rounded face, brown eyes and thick eyebrows match the reference's main features. The eyes are rounder and more highlighted, and the hair is a warmer brown."
+ },
+ {
+  "id": "A07",
+  "set": "D",
+  "file": "hr2_flux2klein9b_helena_ref_seed777.png",
+  "note": "Dark wavy hair, brown eyes, and dangling pearl earrings preserve the reference's main identity cues. Facial proportions and hair styling are somewhat simplified in the chibi treatment."
+ },
+ {
+  "id": "A08",
+  "set": "D",
+  "file": "hb1_flux2klein9b_minguo_ref_seed42.png",
+  "note": "Black hair, twin braids, straight bangs, and dark eyes preserve the main identity cues. The face and eyes are simplified into chibi styling, losing some of the reference's specific facial detail."
+ },
+ {
+  "id": "A09",
+  "set": "D",
+  "file": "vr1_flux2klein9b_ruthven_ref_seed123.png",
+  "note": "The silver-white swept, wavy hair, pale face, heavy-lidded eyes, and dangling gold earring preserve the main identity cues. The eyes change from purple to grey, and the facial details are softened."
+ },
+ {
+  "id": "A10",
+  "set": "S",
+  "file": "ck1_flux2klein9b_cthulhu_ref_seed123.png",
+  "note": "The pale green colouring, oversized glossy eyes, rounded head, tiny mouth, and soft watercolour texture closely match the reference. The forehead markings and facial details also remain consistent."
+ },
+ {
+  "id": "A11",
+  "set": "D",
+  "file": "ob1_flux2klein9b_minguo_ref_seed123.png",
+  "note": "Black twin braids, straight bangs, dark eyes, and a soft rounded face preserve the main identity cues. Chibi simplification and large tinted spectacles obscure the finer facial resemblance."
+ },
+ {
+  "id": "A12",
+  "set": "S",
+  "file": "vr2_flux2klein9b_ruthven_ref_seed123.png",
+  "note": "The silver-white swept hairstyle, long side curl, pale face, and gold earring closely match the reference. The eyes are changed to glowing red as requested, while the facial design remains recognizable."
+ },
+ {
+  "id": "A13",
+  "set": "S",
+  "file": "ve1_flux2klein9b_eleanor_ref_seed42.png",
+  "note": "The long, wavy silver-grey hair, pale angular face, downcast eyes, and signature wide-brimmed black hat closely match the reference. The character remains unmistakably recognizable."
+ },
+ {
+  "id": "A14",
+  "set": "D",
+  "file": "al1_flux2klein9b_alice_ref_seed42.png",
+  "note": "Golden blonde hair, blue eyes, and a soft, youthful face match the reference. The swept hairstyle is similar, with some differences in its shape and the storybook facial rendering."
+ },
+ {
+  "id": "A15",
+  "set": "S",
+  "file": "ve1_flux2klein9b_eleanor_ref_seed777.png",
+  "note": "The long wavy silver-grey hair, wide-brimmed black hat, and pale, gaunt face closely match the reference. The downcast eyes and distinctive dark lips also preserve the character's identity."
+ },
+ {
+  "id": "A16",
+  "set": "S",
+  "file": "hr1_flux2klein9b_helena_ref_seed42.png",
+  "note": "The dark, side-parted wavy hair, brown eyes, facial features, and pearl drop earrings closely match the reference despite the chibi proportions."
+ },
+ {
+  "id": "A17",
+  "set": "D",
+  "file": "vb1_flux2klein9b_minguo_ref_seed123.png",
+  "note": "Black twin braids, straight bangs, brown eyes, and a soft rounded face preserve the reference's main identity cues. The simplified chibi facial rendering changes the finer likeness."
+ },
+ {
+  "id": "A18",
+  "set": "S",
+  "file": "od2_flux2klein9b_dorothy_ref_seed123.png",
+  "note": "The blonde braided hairstyle, rounded face, large warm brown eyes, and characteristic bangs closely match the reference despite the more detailed rendering."
+ },
+ {
+  "id": "A19",
+  "set": "S",
+  "file": "hr2_flux2klein9b_helena_ref_seed123.png",
+  "note": "The dark, side-parted wavy hair, brown eyes, facial features, and pearl drop earrings closely match the reference. Chibi proportions and the tearful expression do not alter the character's identity."
+ },
+ {
+  "id": "A20",
+  "set": "S",
+  "file": "ct2_flux2klein9b_thurston_ref_seed42.png",
+  "note": "The dark parted hair, round glasses, brown eyes, and rounded face closely match the reference. The hat obscures some hair, but the character remains unmistakable."
+ }
+]

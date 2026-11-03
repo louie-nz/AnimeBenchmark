@@ -1,0 +1,48 @@
+{
+  "group": "ct1",
+  "character": "thurston",
+  "world": "w014",
+  "design_id": "p2_w014_du031",
+  "level": "L1",
+  "character_axis": "normal human (Q版)",
+  "style_type": "Q版anime",
+  "ref_head": "cth_thurston_ref_head.png",
+  "ref_source": "standing image with magnifier and scroll; head cropped above the magnifier",
+  "target_image": "seated image, lamp over notes, frowning",
+  "head_text": "a head.",
+  "content": {
+    "theme": "Francis Wayland Thurston, cute chibi investigator",
+    "subject": "2.5-head chibi thin scholar",
+    "costume": "old suit, overcoat, scarf, glasses",
+    "colors": "grey-brown, dark green, beige, dark red",
+    "action": "holding lamp over notes, frowning, looking back",
+    "props": "manuscript, magnifier, oil lamp, Cthulhu idol, sea chart",
+    "composition": "centered, plain solid background, 1:1 square composition",
+    "quality": "high quality, no text, no watermark"
+  },
+  "negative_original": "brand mark, subtitles, signature, real photo style, official render, superfluous fingers, deformed limbs, low quality, messy backdrop, out of focus",
+  "templates": {
+    "sd": "{theme}, {subject}, {costume}, {colors}, {action}, {props}, {composition}, {quality}",
+    "flux_ref": "Keep this man's face and art style exactly the same as in the image. He is {theme}, a {subject}. Show him full body, zoomed out. Outfit: {costume}. Colors: {colors}. He is {action}. Props: {props}. Composition: {composition}. {quality}.",
+    "flux_noref": "{theme}, a {subject}. Full body, zoomed out. Outfit: {costume}. Colors: {colors}. He is {action}. Props: {props}. Composition: {composition}. {quality}."
+  },
+  "checklist_must": [
+    "dark messy hair, round glasses, pale face (reference)",
+    "overcoat + scarf (dark red)",
+    "holding an oil lamp over notes / manuscript",
+    "single non-photoreal chibi image"
+  ],
+  "checklist_should": [
+    "frowning",
+    "magnifier",
+    "Cthulhu idol",
+    "sea chart",
+    "plain solid background"
+  ],
+  "notes": [
+    "Prompt verbatim.",
+    "DATA: du031 and du032 have identical positive prompts in the dataset (only negatives differ). The pair used here matches the du031 variation note (img01: holding lamp over notes, frowning).",
+    "The other pair (grey background) was not used: its two images wear different coats and scarves, so outfit cannot be judged.",
+    "Same reference head is reused for ct2 (L2)."
+  ]
+}

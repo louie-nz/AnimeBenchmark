@@ -1,0 +1,48 @@
+{
+  "group": "ol1",
+  "character": "lion",
+  "world": "w006",
+  "design_id": "p2_w006_du065",
+  "level": "L1",
+  "character_axis": "non-human",
+  "style_type": "Q版cartoon",
+  "ref_head": "oz_lion_ref_head.png",
+  "ref_source": "p2_w006_du065_img02.png (proud, hands on hips, medal)",
+  "target_image": "p2_w006_du065_img01.png (crying, hugging tail)",
+  "head_text": "a lion head.",
+  "content": {
+    "theme": "chibi 2.5D illustration of the Cowardly Lion from Wizard of Oz",
+    "subject": "extremely fluffy cute chubby lion",
+    "expression": "scared teary eyes",
+    "pose": "hugging his own tail",
+    "texture": "super cute soft fur",
+    "pose2": "funny coward pose",
+    "background": "plain background",
+    "quality": "masterpiece",
+    "composition": "1:1 ratio"
+  },
+  "negative_original": "scary fierce lion, sharp teeth, blood, realistic wild beast, bad anatomy, deformed limbs",
+  "templates": {
+    "sd": "{theme}, {subject}, {expression}, {pose}, {texture}, {pose2}, {background}, {quality}, {composition}",
+    "flux_ref": "Keep this lion's face and art style exactly the same as in the image. It is a {theme}: an {subject}. Show its full body, zoomed out. It has {expression}, {pose}, {texture}, in a {pose2}. {background}, {quality}, {composition}.",
+    "flux_noref": "A {theme}: an {subject}. Full body, zoomed out. It has {expression}, {pose}, {texture}, in a {pose2}. {background}, {quality}, {composition}."
+  },
+  "checklist_must": [
+    "a lion, not a human or princess",
+    "orange mane and round chibi face (reference)",
+    "scared / teary expression",
+    "hugging tail",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "sitting / cowering coward pose",
+    "soft fluffy fur",
+    "plain background",
+    "no medal (medal is only in the reference image: outfit leakage)"
+  ],
+  "notes": [
+    "DATA FIX (documented): original prompt said 'Princess Ozma from Wizard of Oz' (wrong name; dataset JSON also mislabels this unit as Ozma) -> 'the Cowardly Lion from Wizard of Oz'.",
+    "DATA FIX (documented): 'biting his own tail' -> 'hugging his own tail', following the target image (prompt was written after image generation).",
+    "Reference expression (proud/angry) conflicts with prompt expression (scared); expression must follow the prompt."
+  ]
+}

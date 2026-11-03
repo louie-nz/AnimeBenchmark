@@ -1,0 +1,47 @@
+{
+  "group": "tb1",
+  "character": "minguo",
+  "world": "w004",
+  "design_id": "legacy (week 10-11, before the JSON pipeline)",
+  "level": "TaskB",
+  "style_type": "cartoon",
+  "ref_head": "tb1_minguo_ref_head.png",
+  "ref_head_candidates": [
+    "tb1_minguo_ref_head.png"
+  ],
+  "image_glob": {
+    "ref": "results/generated/tb1_{tag}_minguo_ref_seed*.png",
+    "noref": "results/generated/tb1_{tag}_minguo_noref_seed*.png"
+  },
+  "head_text": "a head.",
+  "content": {
+    "prompt": "Wonderland battle armor concept, young Chinese girl with black twin braids and straight bangs, wearing a white hardened leather corset with spade and heart emboss, blue skirt armor made of layered playing cards, holding a thick law book, pointing forward, with righteous anger, court background with card soldier silhouettes, heroic perspective, art nouveau style, square composition"
+  },
+  "negative_original": "",
+  "templates": {
+    "sd": "{prompt}",
+    "flux_ref": "{prompt}",
+    "flux_noref": "{prompt}"
+  },
+  "checklist_must": [
+    "identity kept: black twin braids, straight bangs, face (reference)",
+    "white hardened leather corset",
+    "blue skirt armor made of layered playing cards",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "a thick law book",
+    "pointing forward",
+    "righteous anger",
+    "courtroom with card soldier silhouettes",
+    "overall coherence 0-4: she looks like she belongs in Wonderland"
+  ],
+  "notes": [
+    "VLM-ONLY legacy case: images were generated with the week 10-11 scripts; kept in cases_legacy/ so generate_all.py never regenerates them.",
+    "Checklist translated from the scoring workbook (v1)."
+  ],
+  "checklist_penalty": [
+    "Alice's original blue-and-white dress",
+    "cultural intrusion: qipao collar, frog buttons or Chinese lattice background"
+  ]
+}

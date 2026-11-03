@@ -1,0 +1,13 @@
+﻿file,group,model,ref_cond,seed,head_found,head_score,head_box,clip_i,dino_i
+tb1_anythingv5_ipadapter_minguo_noref_seed123.png,tb1,anythingv5_ipadapter,noref,123,1,0.504,"[83, 20, 254, 200]",0.6662,0.4451
+tb1_anythingv5_ipadapter_minguo_noref_seed42.png,tb1,anythingv5_ipadapter,noref,42,1,0.414,"[219, 6, 420, 205]",0.7205,0.4752
+tb1_anythingv5_ipadapter_minguo_noref_seed777.png,tb1,anythingv5_ipadapter,noref,777,1,0.649,"[168, 34, 294, 168]",0.7225,0.5744
+tb1_anythingv5_ipadapter_minguo_ref_seed123.png,tb1,anythingv5_ipadapter,ref,123,1,0.47,"[71, 27, 427, 408]",0.8013,0.5999
+tb1_anythingv5_ipadapter_minguo_ref_seed42.png,tb1,anythingv5_ipadapter,ref,42,1,0.621,"[82, 28, 423, 399]",0.7955,0.659
+tb1_anythingv5_ipadapter_minguo_ref_seed777.png,tb1,anythingv5_ipadapter,ref,777,1,0.617,"[99, 24, 375, 299]",0.7396,0.5427
+tb1_flux2klein4b_minguo_noref_seed123.png,tb1,flux2klein4b,noref,123,1,0.565,"[404, 51, 628, 300]",0.6346,0.5152
+tb1_flux2klein4b_minguo_noref_seed42.png,tb1,flux2klein4b,noref,42,1,0.535,"[397, 39, 638, 303]",0.6413,0.6334
+tb1_flux2klein4b_minguo_noref_seed777.png,tb1,flux2klein4b,noref,777,1,0.559,"[402, 35, 629, 281]",0.6759,0.5901
+tb1_flux2klein4b_minguo_ref_seed123.png,tb1,flux2klein4b,ref,123,1,0.572,"[417, 77, 622, 310]",0.6735,0.5678
+tb1_flux2klein4b_minguo_ref_seed42.png,tb1,flux2klein4b,ref,42,1,0.588,"[405, 49, 632, 305]",0.6865,0.5837
+tb1_flux2klein4b_minguo_ref_seed777.png,tb1,flux2klein4b,ref,777,1,0.507,"[415, 40, 625, 280]",0.6863,0.4306

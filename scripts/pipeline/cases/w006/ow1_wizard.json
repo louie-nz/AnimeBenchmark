@@ -1,0 +1,45 @@
+{
+  "group": "ow1",
+  "character": "wizard",
+  "world": "w006",
+  "design_id": "p2_w006_du013",
+  "level": "L1",
+  "character_axis": "normal human (normal proportion, elderly male)",
+  "style_type": "cartoon",
+  "ref_head": "oz_wizard_ref_head.png",
+  "ref_source": "p2_w006_du013_img01.png (standing with satchel)",
+  "target_image": "p2_w006_du013_img02.png (card trick)",
+  "head_text": "a head.",
+  "content": {
+    "theme": "The Wizard of Oz",
+    "subject": "white-bearded old man",
+    "costume": "vintage circus performer costume, shoulder satchel",
+    "expression": "sly smile",
+    "action": "performing magic tricks",
+    "style": "vintage circus style",
+    "composition": "square composition"
+  },
+  "negative_original": "watermark, text, realistic photo, official screenshot, extra fingers, low resolution, messy background",
+  "templates": {
+    "sd": "{theme}, {subject}, {costume}, {expression}, {action}, {style}, {composition}",
+    "flux_ref": "Keep this man's face and art style exactly the same as in the image. He is {theme}, a {subject}. Show him from the waist up. Outfit: {costume}. He has a {expression} and is {action}. Style: {style}, {composition}.",
+    "flux_noref": "{theme}, a {subject}, shown from the waist up. Outfit: {costume}. He has a {expression} and is {action}. Style: {style}, {composition}."
+  },
+  "checklist_must": [
+    "white beard, round nose, cheerful old face (reference)",
+    "circus performer costume",
+    "performing a magic trick (e.g. cards)",
+    "single non-photoreal image"
+  ],
+  "checklist_should": [
+    "sly smile",
+    "shoulder satchel",
+    "top hat with feather",
+    "vintage circus style"
+  ],
+  "notes": [
+    "TRANSLATION (documented): original prompt is Chinese: '奥兹巫师，白胡子老人，复古马戏团表演服，挎包，狡黠微笑，变戏法，复古马戏团风格，正方形构图'. SD1.5's CLIP encoder cannot read Chinese, so both models get the English translation.",
+    "img01 and img02 have different hats/coats (black star hat vs striped hat); identity is judged on face, white beard and feather only.",
+    "Cartoon control for Oz; only normal-proportion elderly male in the benchmark."
+  ]
+}

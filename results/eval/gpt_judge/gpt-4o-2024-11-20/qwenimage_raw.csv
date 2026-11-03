@@ -1,0 +1,1458 @@
+file,group,answer
+cl1_qwenimage_cheshire_ref_seed123.png,cl1,"{
+  ""identity_notes"": ""The character in image 2 retains the pink/purple striped fur, wide grin, and overall facial features of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""wide grin"": ""yes"",
+    ""floating"": ""yes"",
+    ""body partly fading / disappearing"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""clean background"": ""yes"",
+    ""magical surreal feel"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, including the wide grin, floating posture, and fading body. The SHOULD items, such as chibi proportions, clean background, and magical surreal feel, are also well-executed."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-rendered, with no visible structural issues or errors."",
+  ""quality"": 4
+}"
+cl1_qwenimage_cheshire_ref_seed42.png,cl1,"{
+  ""identity_notes"": ""The character in image 2 retains the purple and gray striped fur, wide grin, and overall facial features of the reference character, making it unmistakably the same character despite the chibi proportions."",
+  ""identity"": 4,
+  ""items"": {
+    ""wide grin"": ""yes"",
+    ""floating"": ""yes"",
+    ""body partly fading / disappearing"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""clean background"": ""yes"",
+    ""magical surreal feel"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, including the wide grin, floating posture, and fading body. The SHOULD items, such as chibi proportions, clean background, and magical surreal feel, are also well-executed."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no visible structural errors or issues. The overall execution is high quality and consistent with the prompt."",
+  ""quality"": 4
+}"
+cl1_qwenimage_cheshire_ref_seed777.png,cl1,"{
+  ""identity_notes"": ""The character in image 2 retains the pink/purple striped fur, wide grin, and overall facial features of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""wide grin"": ""yes"",
+    ""floating"": ""yes"",
+    ""body partly fading / disappearing"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""clean background"": ""yes"",
+    ""magical surreal feel"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, including the wide grin, floating posture, and disappearing body. The SHOULD items, such as chibi proportions, clean background, and magical surreal feel, are also well-executed."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural errors or issues in the design. The proportions and details are well-rendered, and the overall quality is high."",
+  ""quality"": 4
+}"
+ob1_qwenimage_minguo_ref_seed123.png,ob1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character in image 1, though the chibi style simplifies the details."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared blouse + long dark skirt"": ""yes"",
+    ""green-tinted spectacles"": ""yes"",
+    ""Emerald City / green gates visible"": ""yes"",
+    ""yellow brick road"": ""yes"",
+    ""emerald brooch"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in Oz"": ""yes"",
+    ""blue gingham dress"": ""no"",
+    ""silver or ruby shoes"": ""no"",
+    ""basket"": ""no"",
+    ""small black dog"": ""no"",
+    ""qipao"": ""no"",
+    ""Chinese architecture or lattice windows in the scene"": ""no"",
+    ""hair or face drifting to blonde / Western default"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included. No PENALTY items are visible."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural errors or visual issues. The chibi style is well-executed."",
+  ""quality"": 4
+}"
+ob1_qwenimage_minguo_ref_seed777.png,ob1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character in image 1, though the chibi style alters proportions slightly."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared blouse + long dark skirt"": ""yes"",
+    ""green-tinted spectacles"": ""yes"",
+    ""Emerald City / green gates visible"": ""yes"",
+    ""yellow brick road"": ""yes"",
+    ""emerald brooch"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in Oz"": ""yes"",
+    ""blue gingham dress"": ""no"",
+    ""silver or ruby shoes"": ""no"",
+    ""basket"": ""no"",
+    ""small black dog"": ""no"",
+    ""qipao"": ""no"",
+    ""Chinese architecture or lattice windows in the scene"": ""no"",
+    ""hair or face drifting to blonde / Western default"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included. No PENALTY items are visible."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural errors or visual issues. The chibi style is well-executed."",
+  ""quality"": 4
+}"
+od1_qwenimage_dorothy_ref_seed123.png,od1,"{
+  ""identity_notes"": ""The character in Image 2 matches the reference character in Image 1 with the same blonde twin braids, brown eyes, and overall facial features."",
+  ""identity"": 4,
+  ""items"": {
+    ""blue gingham dress + white shirt"": ""yes"",
+    ""waving"": ""yes"",
+    ""smiling"": ""yes"",
+    ""silver shoes"": ""yes"",
+    ""magic belt"": ""yes"",
+    ""rainbow"": ""no"",
+    ""balloon"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and most SHOULD items are included except for the rainbow."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-drawn with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+ob1_qwenimage_minguo_ref_seed42.png,ob1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character, though the chibi style simplifies the face."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared blouse + long dark skirt"": ""yes"",
+    ""green-tinted spectacles"": ""yes"",
+    ""Emerald City / green gates visible"": ""yes"",
+    ""yellow brick road"": ""yes"",
+    ""emerald brooch"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in Oz"": ""yes"",
+    ""blue gingham dress"": ""no"",
+    ""silver or ruby shoes"": ""no"",
+    ""basket"": ""no"",
+    ""small black dog"": ""no"",
+    ""qipao"": ""no"",
+    ""Chinese architecture or lattice windows in the scene"": ""no"",
+    ""hair or face drifting to blonde / Western default"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included without any PENALTY items. The character fits well into the Emerald City setting."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible errors or structural issues."",
+  ""quality"": 4
+}"
+od1_qwenimage_dorothy_ref_seed42.png,od1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character in hairstyle, hair color, and eye color, maintaining the overall identity."",
+  ""identity"": 4,
+  ""items"": {
+    ""blue gingham dress + white shirt"": ""yes"",
+    ""waving"": ""yes"",
+    ""smiling"": ""yes"",
+    ""silver shoes"": ""yes"",
+    ""magic belt"": ""yes"",
+    ""rainbow"": ""yes"",
+    ""balloon"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included, fulfilling the prompt requirements completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural issues or errors. The proportions and details are well-executed."",
+  ""quality"": 4
+}"
+od2_qwenimage_dorothy_ref_seed42.png,od2,"{
+  ""identity_notes"": ""The character in image 2 retains the blonde braids, hair color, and general facial features of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""leather armor"": ""yes"",
+    ""sword"": ""yes"",
+    ""shield"": ""yes"",
+    ""dynamic fighting pose"": ""yes"",
+    ""gingham dress fully replaced by armor"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the gingham dress is fully replaced by leather armor. The dynamic fighting pose is also well-executed."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean overall with no visible structural issues or errors. The chibi style is well-rendered and consistent."",
+  ""quality"": 4
+}"
+od2_qwenimage_dorothy_ref_seed123.png,od2,"{
+  ""identity_notes"": ""The character in image 2 retains the blonde braids, face shape, and eyes of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""leather armor"": ""yes"",
+    ""sword"": ""yes"",
+    ""shield"": ""yes"",
+    ""dynamic fighting pose"": ""yes"",
+    ""gingham dress fully replaced by armor"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the SHOULD items are also fulfilled, including the dynamic fighting pose and the complete replacement of the gingham dress with leather armor."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean overall, with no visible structural errors or issues with limbs or objects."",
+  ""quality"": 4
+}"
+od2_qwenimage_dorothy_ref_seed777.png,od2,"{
+  ""identity_notes"": ""The character in image 2 retains the blonde braids, face shape, and eyes of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""leather armor"": ""yes"",
+    ""sword"": ""yes"",
+    ""shield"": ""yes"",
+    ""dynamic fighting pose"": ""yes"",
+    ""gingham dress fully replaced by armor"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the dynamic fighting pose and full replacement of the gingham dress with armor are also achieved."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-drawn with no visible errors in anatomy, objects, or rendering."",
+  ""quality"": 4
+}"
+ol1_qwenimage_lion_ref_seed123.png,ol1,"{
+  ""identity_notes"": ""The character in image 2 retains the orange mane, round chibi face, and overall lion-like features of the reference character, but the face shape and eyes are slightly different."",
+  ""identity"": 3,
+  ""items"": {
+    ""a lion"": ""yes"",
+    ""scared / teary expression"": ""yes"",
+    ""hugging tail"": ""yes"",
+    ""sitting / cowering coward pose"": ""no"",
+    ""soft fluffy fur"": ""yes"",
+    ""plain background"": ""yes"",
+    ""no medal"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, but the character is not sitting or cowering as described in the SHOULD items."",
+  ""prompt"": 3,
+  ""quality_notes"": ""The illustration is clean, with no visible structural errors or issues in execution."",
+  ""quality"": 4
+}"
+ol1_qwenimage_lion_ref_seed42.png,ol1,"{
+  ""identity_notes"": ""The character in image 2 retains the orange mane, round chibi face, and overall lion-like features of the reference character, but the eyes and facial details differ slightly."",
+  ""identity"": 3,
+  ""items"": {
+    ""a lion"": ""yes"",
+    ""scared / teary expression"": ""yes"",
+    ""hugging tail"": ""yes"",
+    ""sitting / cowering coward pose"": ""yes"",
+    ""soft fluffy fur"": ""yes"",
+    ""plain background"": ""yes"",
+    ""no medal"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are fulfilled, including the cowardly pose, soft fur, and plain background. The medal is appropriately omitted."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean, with no visible errors in anatomy, objects, or rendering. The style is consistent and well-executed."",
+  ""quality"": 4
+}"
+ol1_qwenimage_lion_ref_seed777.png,ol1,"{
+  ""identity_notes"": ""The character in image 2 retains the orange mane, round chibi face, and general lion features of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""a lion"": ""yes"",
+    ""scared / teary expression"": ""yes"",
+    ""hugging tail"": ""yes"",
+    ""sitting / cowering coward pose"": ""yes"",
+    ""soft fluffy fur"": ""yes"",
+    ""plain background"": ""yes"",
+    ""no medal"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are fulfilled, with no penalties."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+od1_qwenimage_dorothy_ref_seed777.png,od1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character in image 1 with the same blonde twin braids, brown eyes, and overall facial features."",
+  ""identity"": 4,
+  ""items"": {
+    ""blue gingham dress + white shirt"": ""yes"",
+    ""waving"": ""yes"",
+    ""smiling"": ""yes"",
+    ""silver shoes"": ""yes"",
+    ""magic belt"": ""yes"",
+    ""rainbow"": ""yes"",
+    ""balloon"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are also included, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed with no visible errors or structural issues."",
+  ""quality"": 4
+}"
+ow1_qwenimage_wizard_ref_seed123.png,ow1,"{
+  ""identity_notes"": ""The character in image 2 retains the white beard, round nose, and cheerful old face of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""circus performer costume"": ""yes"",
+    ""performing a magic trick"": ""yes"",
+    ""sly smile"": ""yes"",
+    ""shoulder satchel"": ""yes"",
+    ""top hat with feather"": ""yes"",
+    ""vintage circus style"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, including the circus performer costume and the magic trick. All SHOULD items, such as the sly smile, shoulder satchel, top hat with feather, and vintage circus style, are also included."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural or rendering errors."",
+  ""quality"": 4
+}"
+ow1_qwenimage_wizard_ref_seed42.png,ow1,"{
+  ""identity_notes"": ""The character in image 2 retains the white beard, round nose, and cheerful old face of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""circus performer costume"": ""yes"",
+    ""performing a magic trick"": ""yes"",
+    ""sly smile"": ""yes"",
+    ""shoulder satchel"": ""yes"",
+    ""top hat with feather"": ""yes"",
+    ""vintage circus style"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are also included, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+cb1_qwenimage_minguo_ref_seed123.png,cb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character in image 1, though the chibi style alters proportions slightly."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared light blue blouse + long dark skirt"": ""yes"",
+    ""clay bas-relief tablet with a winged octopus-headed figure"": ""yes"",
+    ""dim 1920s study"": ""yes"",
+    ""hieroglyphs on the tablet"": ""yes"",
+    ""old manuscripts"": ""yes"",
+    ""oil lamp"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in the Cthulhu story"": ""yes"",
+    ""Thurston's fedora / trench coat"": ""no"",
+    ""Angell's white beard or cane"": ""no"",
+    ""qipao"": ""no"",
+    ""Chinese architecture or lattice windows"": ""no"",
+    ""gore, or the monster replacing the girl"": ""no"",
+    ""hair or face drifting to a Western default"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included. No PENALTY items are visible."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or rendering issues."",
+  ""quality"": 4
+}"
+ow1_qwenimage_wizard_ref_seed777.png,ow1,"{
+  ""identity_notes"": ""The character in image 2 retains the white beard, round nose, and cheerful old face of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""circus performer costume"": ""yes"",
+    ""performing a magic trick"": ""yes"",
+    ""sly smile"": ""yes"",
+    ""shoulder satchel"": ""yes"",
+    ""top hat with feather"": ""yes"",
+    ""vintage circus style"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items and all SHOULD items are present, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+cb1_qwenimage_minguo_ref_seed42.png,cb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character, though the chibi style simplifies details."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared light blue blouse + long dark skirt"": ""yes"",
+    ""clay bas-relief tablet with a winged octopus-headed figure"": ""yes"",
+    ""dim 1920s study"": ""yes"",
+    ""hieroglyphs on the tablet"": ""yes"",
+    ""old manuscripts"": ""yes"",
+    ""oil lamp"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in the Cthulhu story"": ""yes"",
+    ""Thurston's fedora / trench coat"": ""no"",
+    ""Angell's white beard or cane"": ""no"",
+    ""qipao"": ""no"",
+    ""Chinese architecture or lattice windows"": ""no"",
+    ""gore, or the monster replacing the girl"": ""no"",
+    ""hair or face drifting to a Western default"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included. No PENALTY items are visible."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-drawn, with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+cc1_qwenimage_thurston_cartoon_ref_seed42.png,cc1,"{
+  ""identity_notes"": ""The character in image 2 retains the hairstyle, hair color, and facial features of the reference character in image 1, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""brown trench coat"": ""yes"",
+    ""old manuscript"": ""yes"",
+    ""magnifying glass"": ""yes"",
+    ""clean plain background"": ""yes"",
+    ""no flashlight"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are fulfilled without any penalties."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural errors or issues in the drawing. The proportions and details are well-executed."",
+  ""quality"": 4
+}"
+cc1_qwenimage_thurston_cartoon_ref_seed123.png,cc1,"{
+  ""identity_notes"": ""The character in image 2 retains the same hairstyle, hair color, and facial features as the reference character in image 1, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""brown trench coat"": ""yes"",
+    ""old manuscript"": ""yes"",
+    ""magnifying glass"": ""yes"",
+    ""clean plain background"": ""yes"",
+    ""no flashlight"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are fulfilled without any penalties."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean, with no visible errors in anatomy, objects, or rendering."",
+  ""quality"": 4
+}"
+cb1_qwenimage_minguo_ref_seed777.png,cb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character, though the chibi style alters the proportions slightly."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared light blue blouse + long dark skirt"": ""yes"",
+    ""clay bas-relief tablet with a winged octopus-headed figure"": ""yes"",
+    ""dim 1920s study"": ""yes"",
+    ""hieroglyphs on the tablet"": ""yes"",
+    ""old manuscripts"": ""yes"",
+    ""oil lamp"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in the Cthulhu story"": ""yes"",
+    ""Thurston's fedora / trench coat"": ""no"",
+    ""Angell's white beard or cane"": ""no"",
+    ""qipao"": ""no"",
+    ""Chinese architecture or lattice windows"": ""no"",
+    ""gore, or the monster replacing the girl"": ""no"",
+    ""hair or face drifting to a Western default"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and most SHOULD items are included. No PENALTY items are visible."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+cc1_qwenimage_thurston_cartoon_ref_seed777.png,cc1,"{
+  ""identity_notes"": ""The character in image 2 retains the hairstyle, hair color, and facial features of the reference character in image 1, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""brown trench coat"": ""yes"",
+    ""old manuscript"": ""yes"",
+    ""magnifying glass"": ""yes"",
+    ""clean plain background"": ""yes"",
+    ""no flashlight"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are fulfilled without any penalties."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural errors or visual issues. The details are well-executed, and the overall quality is high."",
+  ""quality"": 4
+}"
+ck1_qwenimage_cthulhu_ref_seed777.png,ck1,"{
+  ""identity_notes"": ""The character in image 2 retains the pale green color, big glossy eyes, and soft, rounded features of the reference character, making it unmistakably the same character despite the chibi proportions and added body."",
+  ""identity"": 4,
+  ""items"": {
+    ""a monster, not a human"": ""yes"",
+    ""tiny wings"": ""yes"",
+    ""playful / cute mood"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""not scary, not dark"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the image captures the playful, cute mood and chibi proportions requested. The design adheres closely to the prompt without any penalties."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed with no visible structural errors or issues in rendering."",
+  ""quality"": 4
+}"
+ck1_qwenimage_cthulhu_ref_seed123.png,ck1,"{
+  ""identity_notes"": ""The character in image 2 retains the pale green color, big glossy eyes, and overall soft and cute appearance of the reference character in image 1, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""a monster, not a human"": ""yes"",
+    ""tiny wings"": ""yes"",
+    ""playful / cute mood"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""not scary, not dark"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the image captures the playful, cute mood, chibi proportions, and non-scary tone described in the prompt."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is cleanly drawn with no visible structural errors or issues, and it adheres to the requested cartoon style."",
+  ""quality"": 4
+}"
+ck1_qwenimage_cthulhu_ref_seed42.png,ck1,"{
+  ""identity_notes"": ""The character in image 2 retains the pale green color, big glossy eyes, and octopus-like head of the reference character, making it unmistakably the same character despite the chibi proportions and playful pose."",
+  ""identity"": 4,
+  ""items"": {
+    ""a monster, not a human"": ""yes"",
+    ""tiny wings"": ""yes"",
+    ""playful / cute mood"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""not scary, not dark"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the SHOULD items such as the playful mood, chibi proportions, and non-scary appearance are also well-executed."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no visible structural errors or issues in the drawing. The cartoon style is consistent and well-rendered."",
+  ""quality"": 4
+}"
+ct1_qwenimage_thurston_ref_seed777.png,ct1,"{
+  ""identity_notes"": ""The character in image 2 retains the dark messy hair, round glasses, and pale face of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""overcoat + scarf"": ""yes"",
+    ""holding an oil lamp over notes / manuscript"": ""yes"",
+    ""frowning"": ""yes"",
+    ""magnifier"": ""yes"",
+    ""Cthulhu idol"": ""yes"",
+    ""sea chart"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included as well, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural errors or issues in the depiction of limbs or objects."",
+  ""quality"": 4
+}"
+ct1_qwenimage_thurston_ref_seed123.png,ct1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character in hairstyle, hair color, round glasses, and pale face, maintaining the key identity cues."",
+  ""identity"": 4,
+  ""items"": {
+    ""overcoat + scarf"": ""yes"",
+    ""holding an oil lamp over notes / manuscript"": ""yes"",
+    ""frowning"": ""yes"",
+    ""magnifier"": ""yes"",
+    ""Cthulhu idol"": ""yes"",
+    ""sea chart"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included, fulfilling the prompt requirements completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no visible structural errors or issues in rendering. The details are well-executed and consistent with the chibi style."",
+  ""quality"": 4
+}"
+ct1_qwenimage_thurston_ref_seed42.png,ct1,"{
+  ""identity_notes"": ""The character in image 2 retains the dark messy hair, round glasses, and pale face of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""overcoat + scarf"": ""yes"",
+    ""holding an oil lamp over notes / manuscript"": ""yes"",
+    ""frowning"": ""yes"",
+    ""magnifier"": ""yes"",
+    ""Cthulhu idol"": ""yes"",
+    ""sea chart"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included as well, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-drawn with no visible errors in anatomy, objects, or composition."",
+  ""quality"": 4
+}"
+ct2_qwenimage_thurston_ref_seed123.png,ct2,"{
+  ""identity_notes"": ""The character in image 2 retains the dark hair, round glasses, and general facial features of the reference character, making it unmistakably the same character despite the outfit and style change."",
+  ""identity"": 4,
+  ""items"": {
+    ""brown leather trench coat"": ""yes"",
+    ""brass goggles on a hat"": ""yes"",
+    ""brass detector with gears / steam"": ""yes"",
+    ""plain background"": ""yes"",
+    ""red scarf and grey overcoat replaced"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the SHOULD items are also fulfilled, with the red scarf and grey overcoat replaced as requested."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and highly detailed, with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+ct2_qwenimage_thurston_ref_seed42.png,ct2,"{
+  ""identity_notes"": ""The character in image 2 retains the dark hair, round glasses, and overall facial features of the reference character, making it unmistakably the same character despite the change in outfit and style."",
+  ""identity"": 4,
+  ""items"": {
+    ""brown leather trench coat"": ""yes"",
+    ""brass goggles on a hat"": ""yes"",
+    ""brass detector with gears / steam"": ""yes"",
+    ""plain background"": ""yes"",
+    ""red scarf and grey overcoat replaced"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the red scarf and grey overcoat have been replaced as requested. The plain background is also included, fulfilling the SHOULD item."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and highly detailed, with no visible structural errors or issues with limbs or objects."",
+  ""quality"": 4
+}"
+ct2_qwenimage_thurston_ref_seed777.png,ct2,"{
+  ""identity_notes"": ""The character in image 2 retains the dark hair, round glasses, and general facial features of the reference character, making it unmistakably the same character despite the outfit and style change."",
+  ""identity"": 4,
+  ""items"": {
+    ""brown leather trench coat"": ""yes"",
+    ""brass goggles on a hat"": ""yes"",
+    ""brass detector with gears / steam"": ""yes"",
+    ""plain background"": ""yes"",
+    ""red scarf and grey overcoat replaced"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the SHOULD items are also fulfilled. The red scarf and grey overcoat have been replaced as requested."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and highly detailed, with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+cx1_qwenimage_legrasse_ref_seed42.png,cx1,"{
+  ""identity_notes"": ""The character in image 2 retains the hairstyle, hair color, stern eyes, and signature navy peaked cap with a gold badge, making it unmistakably the reference character."",
+  ""identity"": 4,
+  ""items"": {
+    ""dark blue police uniform / coat"": ""yes"",
+    ""shining a flashlight"": ""yes"",
+    ""crouching"": ""yes"",
+    ""looking back"": ""no"",
+    ""revolver"": ""yes"",
+    ""handcuffs"": ""yes"",
+    ""Cthulhu idol"": ""yes"",
+    ""swamp"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and most SHOULD items are included except for the character not looking back."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+va1_qwenimage_missaubrey_ref_seed123.png,va1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character in hairstyle, hair color, face shape, and eyes, maintaining the identity unmistakably."",
+  ""identity"": 4,
+  ""items"": {
+    ""pale gown with lace shawl"": ""yes"",
+    ""pearl necklace, hand touching it"": ""yes"",
+    ""lowering eyes / melancholy"": ""yes"",
+    ""candlestick"": ""yes"",
+    ""rose"": ""yes"",
+    ""portrait"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no visible structural errors or issues in the artwork."",
+  ""quality"": 4
+}"
+cx1_qwenimage_legrasse_ref_seed123.png,cx1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character in hairstyle, hair color, stern eyes, and the navy peaked cap with a gold badge, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""dark blue police uniform / coat"": ""yes"",
+    ""shining a flashlight"": ""yes"",
+    ""crouching"": ""yes"",
+    ""looking back"": ""yes"",
+    ""revolver"": ""yes"",
+    ""handcuffs"": ""yes"",
+    ""Cthulhu idol"": ""yes"",
+    ""swamp"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included, making the image a faithful representation of the prompt."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural errors or visual issues. The details are well-rendered, and the overall quality is high."",
+  ""quality"": 4
+}"
+cx1_qwenimage_legrasse_ref_seed777.png,cx1,"{
+  ""identity_notes"": ""The character in image 2 retains the hairstyle, hair color, and stern eyes of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""dark blue police uniform / coat"": ""yes"",
+    ""shining a flashlight"": ""yes"",
+    ""crouching"": ""yes"",
+    ""looking back"": ""yes"",
+    ""revolver"": ""no"",
+    ""handcuffs"": ""yes"",
+    ""Cthulhu idol"": ""yes"",
+    ""swamp"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and most SHOULD items are included except for the revolver."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+va1_qwenimage_missaubrey_ref_seed42.png,va1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character in hairstyle, hair color, face shape, and eye color, maintaining the identity of the original."",
+  ""identity"": 4,
+  ""items"": {
+    ""pale gown with lace shawl"": ""yes"",
+    ""pearl necklace, hand touching it"": ""yes"",
+    ""lowering eyes / melancholy"": ""yes"",
+    ""candlestick"": ""yes"",
+    ""rose"": ""yes"",
+    ""portrait"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included as well, making the image highly faithful to the prompt."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or issues in rendering."",
+  ""quality"": 4
+}"
+va1_qwenimage_missaubrey_ref_seed777.png,va1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character in hairstyle, hair color, face shape, and eye color, maintaining the identity of the original character."",
+  ""identity"": 4,
+  ""items"": {
+    ""pale gown with lace shawl"": ""yes"",
+    ""pearl necklace"": ""yes"",
+    ""hand touching it"": ""yes"",
+    ""lowering eyes / melancholy"": ""yes"",
+    ""candlestick"": ""yes"",
+    ""rose"": ""yes"",
+    ""portrait"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included, making the image highly faithful to the prompt."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural errors or issues in rendering. The details are well-executed, and the overall quality is high."",
+  ""quality"": 4
+}"
+vb1_qwenimage_minguo_ref_seed123.png,vb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character in image 1, though the chibi style simplifies the details."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared light blue blouse + long dark skirt"": ""yes"",
+    ""Regency ballroom with chandeliers"": ""yes"",
+    ""lace fan"": ""yes"",
+    ""red rose"": ""yes"",
+    ""full moon in the window"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in The Vampyre"": ""yes"",
+    ""fangs"": ""no"",
+    ""red eyes"": ""no"",
+    ""black high-collar cloak"": ""no"",
+    ""Miss Aubrey's pale gown and pearls"": ""no"",
+    ""qipao, Chinese architecture or lattice windows"": ""no"",
+    ""gore, or losing the new identity"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included. No PENALTY items are present."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+vb1_qwenimage_minguo_ref_seed42.png,vb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character in image 1, despite the chibi style."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared light blue blouse"": ""yes"",
+    ""long dark skirt"": ""yes"",
+    ""Regency ballroom with chandeliers"": ""yes"",
+    ""lace fan"": ""yes"",
+    ""red rose"": ""yes"",
+    ""full moon in the window"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in The Vampyre"": ""yes"",
+    ""fangs"": ""no"",
+    ""red eyes"": ""no"",
+    ""black high-collar cloak"": ""no"",
+    ""Miss Aubrey's pale gown and pearls"": ""no"",
+    ""qipao, Chinese architecture or lattice windows"": ""no"",
+    ""gore, or losing the new identity"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included. No PENALTY items are visible."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+vb1_qwenimage_minguo_ref_seed777.png,vb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character, though the chibi style simplifies the details."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared light blue blouse + long dark skirt"": ""yes"",
+    ""Regency ballroom with chandeliers"": ""yes"",
+    ""lace fan"": ""yes"",
+    ""red rose"": ""yes"",
+    ""full moon in the window"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in The Vampyre"": ""yes"",
+    ""fangs"": ""no"",
+    ""red eyes"": ""no"",
+    ""black high-collar cloak"": ""no"",
+    ""Miss Aubrey's pale gown and pearls"": ""no"",
+    ""qipao, Chinese architecture or lattice windows"": ""no"",
+    ""gore, or losing the new identity"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included without any PENALTY items."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-drawn with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+vc1_qwenimage_missaubrey_cartoon_ref_seed777.png,vc1,"{
+  ""identity_notes"": ""The character in image 2 retains the brown updo hairstyle, big brown eyes, and thick-line cartoon face of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""ivory bridal gown"": ""yes"",
+    ""lace veil"": ""yes"",
+    ""white lily bouquet"": ""yes"",
+    ""pearl necklace"": ""yes"",
+    ""gentle smile"": ""yes"",
+    ""plain background"": ""yes"",
+    ""no brooch / pink dress"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are also correctly included. There are no penalty items."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean overall with no visible errors in anatomy, objects, or rendering."",
+  ""quality"": 4
+}"
+vc1_qwenimage_missaubrey_cartoon_ref_seed123.png,vc1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character in hairstyle, hair color, and facial features, including the large brown eyes and thick-line cartoon face."",
+  ""identity"": 4,
+  ""items"": {
+    ""ivory bridal gown"": ""yes"",
+    ""lace veil"": ""yes"",
+    ""white lily bouquet"": ""yes"",
+    ""pearl necklace"": ""yes"",
+    ""gentle smile"": ""yes"",
+    ""plain background"": ""yes"",
+    ""no brooch / pink dress"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included. There are no penalty items."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean and well-executed with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+vc1_qwenimage_missaubrey_cartoon_ref_seed42.png,vc1,"{
+  ""identity_notes"": ""The character in image 2 retains the brown updo hairstyle, big brown eyes, and thick-line cartoon face, making it unmistakably the reference character."",
+  ""identity"": 4,
+  ""items"": {
+    ""ivory bridal gown"": ""yes"",
+    ""lace veil"": ""yes"",
+    ""white lily bouquet"": ""yes"",
+    ""pearl necklace"": ""yes"",
+    ""gentle smile"": ""yes"",
+    ""plain background"": ""yes"",
+    ""no brooch / pink dress"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are followed. There are no penalty items."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean, with no visible structural errors or issues in the depiction of hands, limbs, or objects."",
+  ""quality"": 4
+}"
+ve1_qwenimage_eleanor_ref_seed123.png,ve1,"{
+  ""identity_notes"": ""The character in image 2 retains the long wavy silver-grey hair, pale gaunt face, and black wide-brimmed hat from the reference, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""normal 7-head proportions"": ""yes"",
+    ""faded evening gown with tattered lace"": ""yes"",
+    ""broken black veil"": ""yes"",
+    ""dull pearl jewelry"": ""yes"",
+    ""gothic illustration style"": ""yes"",
+    ""dim moonlight"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are also included, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean with no visible structural errors or issues, and it adheres to the requested gothic illustration style."",
+  ""quality"": 4
+}"
+vr1_qwenimage_ruthven_ref_seed123.png,vr1,"{
+  ""identity_notes"": ""The character in image 2 retains the silver-white wavy hair, pale complexion, and earring from the reference character in image 1. The eyes and facial features are consistent with the reference, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""black regency coat"": ""yes"",
+    ""cravat"": ""yes"",
+    ""gold-headed cane"": ""yes"",
+    ""cold / aloof expression"": ""yes"",
+    ""plain background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, including the black regency coat, cravat, and gold-headed cane. The SHOULD items, such as the cold expression and plain background, are also included."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean and well-executed, with no visible structural errors or issues with limbs or objects. The style is consistent with the prompt."",
+  ""quality"": 4
+}"
+ve1_qwenimage_eleanor_ref_seed42.png,ve1,"{
+  ""identity_notes"": ""The character in image 2 retains the long wavy silver-grey hair, pale gaunt face, and black wide-brimmed hat from the reference, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""normal 7-head proportions"": ""yes"",
+    ""faded evening gown with tattered lace"": ""yes"",
+    ""broken black veil"": ""yes"",
+    ""dull pearl jewelry"": ""yes"",
+    ""gothic illustration style"": ""yes"",
+    ""dim moonlight"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, including the 7-head proportions, faded evening gown with tattered lace, and broken black veil. Additionally, all SHOULD items, such as dull pearl jewelry, gothic illustration style, and dim moonlight, are also included."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean overall with no visible structural errors or issues in the depiction of the character or background."",
+  ""quality"": 4
+}"
+ve1_qwenimage_eleanor_ref_seed777.png,ve1,"{
+  ""identity_notes"": ""The character in image 2 retains the long wavy silver-grey hair, pale gaunt face, and black wide-brimmed hat, making it unmistakably the same character as in image 1."",
+  ""identity"": 4,
+  ""items"": {
+    ""normal 7-head proportions"": ""yes"",
+    ""faded evening gown with tattered lace"": ""yes"",
+    ""broken black veil"": ""yes"",
+    ""dull pearl jewelry"": ""yes"",
+    ""gothic illustration style"": ""yes"",
+    ""dim moonlight"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are also included, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean with no visible structural errors or issues with limbs, hands, or objects. The style matches the requested gothic illustration."",
+  ""quality"": 4
+}"
+vr1_qwenimage_ruthven_ref_seed42.png,vr1,"{
+  ""identity_notes"": ""The character in image 2 retains the silver-white wavy hair, pale complexion, and earring from the reference character, but the eyes and facial features are slightly different due to the style shift."",
+  ""identity"": 3,
+  ""items"": {
+    ""black regency coat"": ""yes"",
+    ""cravat"": ""yes"",
+    ""gold-headed cane"": ""yes"",
+    ""cold / aloof expression"": ""yes"",
+    ""plain background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items and SHOULD items are present, with the character's aristocratic and gothic aesthetic well captured."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean and well-executed, with no visible errors in anatomy, objects, or rendering."",
+  ""quality"": 4
+}"
+vr1_qwenimage_ruthven_ref_seed777.png,vr1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character in terms of silver-white wavy hair, pale skin, and heavy-lidded eyes. The earring is also present, maintaining the identity."",
+  ""identity"": 4,
+  ""items"": {
+    ""black regency coat"": ""yes"",
+    ""cravat"": ""yes"",
+    ""gold-headed cane"": ""yes"",
+    ""cold / aloof expression"": ""yes"",
+    ""plain background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, including the black regency coat, cravat, and gold-headed cane. The SHOULD items, such as the cold expression and plain background, are also included."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean and well-executed, with no visible structural errors or issues with the hands or limbs."",
+  ""quality"": 4
+}"
+vr2_qwenimage_ruthven_ref_seed123.png,vr2,"{
+  ""identity_notes"": ""The character in image 2 retains the silver-white hair, pale face, and general facial features of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""floating"": ""yes"",
+    ""full moon"": ""yes"",
+    ""glowing red eyes"": ""yes"",
+    ""fangs"": ""yes"",
+    ""dark magic particles"": ""yes"",
+    ""coat fluttering"": ""yes"",
+    ""spooky but cute"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are also included, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean and well-executed with no visible errors or structural issues."",
+  ""quality"": 4
+}"
+vr2_qwenimage_ruthven_ref_seed42.png,vr2,"{
+  ""identity_notes"": ""The character in image 2 retains the silver-white hair, pale face, and similar facial features as the reference character in image 1, ensuring a strong resemblance."",
+  ""identity"": 4,
+  ""items"": {
+    ""floating"": ""yes"",
+    ""full moon"": ""yes"",
+    ""glowing red eyes"": ""yes"",
+    ""fangs"": ""yes"",
+    ""dark magic particles"": ""yes"",
+    ""coat fluttering"": ""yes"",
+    ""spooky but cute"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are effectively incorporated, creating a spooky yet cute scene as described."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or issues in the artwork."",
+  ""quality"": 4
+}"
+dc1_qwenimage_domin_ref_seed123.png,dc1,"{
+  ""identity_notes"": ""The character in image 2 retains the brown swept-back hair with grey temples, round cartoon face, and thick outlines, making it unmistakably the reference character."",
+  ""identity"": 4,
+  ""items"": {
+    ""dark green double-breasted suit"": ""yes"",
+    ""factory blueprints"": ""yes"",
+    ""wire glasses"": ""yes"",
+    ""glowing blueprints"": ""yes"",
+    ""confident smile"": ""yes"",
+    ""plain background"": ""yes"",
+    ""no factory model"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are fulfilled. The glowing blueprints and confident smile are well-executed, and the plain background is accurate."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean, with no visible structural errors or inconsistencies. The hands, limbs, and objects are well-drawn, and the overall quality is high."",
+  ""quality"": 4
+}"
+vr2_qwenimage_ruthven_ref_seed777.png,vr2,"{
+  ""identity_notes"": ""The character in image 2 retains the silver-white hair, pale face, and overall facial structure of the reference character in image 1, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""floating"": ""yes"",
+    ""full moon"": ""yes"",
+    ""glowing red eyes"": ""yes"",
+    ""fangs"": ""yes"",
+    ""dark magic particles"": ""yes"",
+    ""coat fluttering"": ""yes"",
+    ""spooky but cute"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, including floating, full moon, glowing red eyes, and fangs. Additionally, all SHOULD items are included, such as dark magic particles, a fluttering coat, and a spooky but cute aesthetic."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean and well-executed, with no visible errors in anatomy or rendering. The style is consistent with the chibi aesthetic, and there are no structural issues."",
+  ""quality"": 4
+}"
+dc1_qwenimage_domin_ref_seed42.png,dc1,"{
+  ""identity_notes"": ""The character in image 2 retains the hairstyle, hair color, and general facial features of the reference character, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""dark green double-breasted suit"": ""yes"",
+    ""factory blueprints"": ""yes"",
+    ""wire glasses"": ""yes"",
+    ""glowing blueprints"": ""yes"",
+    ""confident smile"": ""yes"",
+    ""plain background"": ""yes"",
+    ""no factory model"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are fulfilled without any penalties."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean, with no visible errors in anatomy, objects, or rendering."",
+  ""quality"": 4
+}"
+dc1_qwenimage_domin_ref_seed777.png,dc1,"{
+  ""identity_notes"": ""The character in image 2 retains the brown swept-back hair with grey temples, round cartoon face, and thick outlines, making it unmistakably the reference character."",
+  ""identity"": 4,
+  ""items"": {
+    ""dark green double-breasted suit"": ""yes"",
+    ""factory blueprints"": ""yes"",
+    ""wire glasses"": ""yes"",
+    ""glowing blueprints"": ""yes"",
+    ""confident smile"": ""yes"",
+    ""plain background"": ""yes"",
+    ""no factory model"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included without any penalties."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean overall, with no visible errors in anatomy, objects, or rendering."",
+  ""quality"": 4
+}"
+hb1_qwenimage_minguo_ref_seed123.png,hb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character, though the chibi style alters the proportions slightly."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared light blue blouse"": ""yes"",
+    ""long dark skirt"": ""yes"",
+    ""factory with rows of identical robot workers"": ""yes"",
+    ""leaflet"": ""yes"",
+    ""assembly line"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in R.U.R."": ""yes"",
+    ""Helena's cream suit, blue scarf and pearls"": ""no"",
+    ""turning into a robot"": ""no"",
+    ""qipao, Chinese architecture or lattice windows"": ""no"",
+    ""hair or face drifting to a Western default"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the SHOULD items are well-represented. No PENALTY items are visible."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+hb1_qwenimage_minguo_ref_seed42.png,hb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character in image 1, though the chibi style alters the proportions."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared light blue blouse"": ""yes"",
+    ""long dark skirt"": ""yes"",
+    ""factory with rows of identical robot workers"": ""yes"",
+    ""leaflet"": ""yes"",
+    ""assembly line"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in R.U.R."": ""yes"",
+    ""Helena's cream suit, blue scarf and pearls"": ""no"",
+    ""turning into a robot"": ""no"",
+    ""qipao, Chinese architecture or lattice windows"": ""no"",
+    ""hair or face drifting to a Western default"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the SHOULD items are well-represented. No PENALTY items are visible."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or unintended elements."",
+  ""quality"": 4
+}"
+hb1_qwenimage_minguo_ref_seed777.png,hb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character, though the chibi style alters the proportions slightly."",
+  ""identity"": 4,
+  ""items"": {
+    ""high-collared light blue blouse + long dark skirt"": ""yes"",
+    ""factory with rows of identical robot workers"": ""yes"",
+    ""leaflet"": ""yes"",
+    ""assembly line"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""she looks like she belongs in R.U.R."": ""yes"",
+    ""Helena's cream suit, blue scarf and pearls"": ""no"",
+    ""turning into a robot"": ""no"",
+    ""qipao, Chinese architecture or lattice windows"": ""no"",
+    ""hair or face drifting to a Western default"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and the SHOULD items are well-represented. No PENALTY items are visible."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+hr1_qwenimage_helena_ref_seed123.png,hr1,"{
+  ""identity_notes"": ""The character in image 2 retains the dark wavy shoulder-length hair, brown eyes, and pearl earrings from the reference character, ensuring a strong resemblance."",
+  ""identity"": 4,
+  ""items"": {
+    ""cream light suit"": ""yes"",
+    ""light blue scarf"": ""yes"",
+    ""hands clasped"": ""yes"",
+    ""looking at a robot"": ""yes"",
+    ""a robot present"": ""yes"",
+    ""compassionate look"": ""yes"",
+    ""badge"": ""yes"",
+    ""letters / formula manuscript"": ""yes"",
+    ""flame"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included, making the prompt fully followed."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-drawn with no structural errors or visual issues."",
+  ""quality"": 4
+}"
+hr1_qwenimage_helena_ref_seed777.png,hr1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character with the same dark wavy hair, brown eyes, and pearl earrings, despite the chibi style."",
+  ""identity"": 4,
+  ""items"": {
+    ""cream light suit"": ""yes"",
+    ""light blue scarf"": ""yes"",
+    ""hands clasped"": ""yes"",
+    ""looking at a robot"": ""yes"",
+    ""a robot present"": ""yes"",
+    ""compassionate look"": ""yes"",
+    ""badge"": ""yes"",
+    ""letters / formula manuscript"": ""yes"",
+    ""flame"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items and all SHOULD items are present, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-drawn with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+hr2_qwenimage_helena_ref_seed123.png,hr2,"{
+  ""identity_notes"": ""The character in image 2 retains the dark wavy hair, pearl earrings, and brown eyes from the reference character, making her unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""kneeling"": ""yes"",
+    ""fireplace"": ""yes"",
+    ""pushing burning manuscripts into the fire"": ""yes"",
+    ""tearful face"": ""yes"",
+    ""orange fire glow"": ""yes"",
+    ""resolute expression"": ""yes"",
+    ""plain background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are fulfilled, including the dramatic orange fire glow and plain background."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean and well-executed, with no visible structural errors or issues with hands or limbs."",
+  ""quality"": 4
+}"
+hr1_qwenimage_helena_ref_seed42.png,hr1,"{
+  ""identity_notes"": ""The character in image 2 retains the dark wavy shoulder-length hair, brown eyes, and pearl earrings from the reference image, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""cream light suit"": ""yes"",
+    ""light blue scarf"": ""yes"",
+    ""hands clasped"": ""yes"",
+    ""looking at a robot"": ""yes"",
+    ""a robot present"": ""yes"",
+    ""compassionate look"": ""yes"",
+    ""badge"": ""yes"",
+    ""letters / formula manuscript"": ""yes"",
+    ""flame"": ""yes"",
+    ""plain solid background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included as well, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural errors or visual issues. The details are well-executed, and the overall quality is high."",
+  ""quality"": 4
+}"
+hr2_qwenimage_helena_ref_seed42.png,hr2,"{
+  ""identity_notes"": ""The character in image 2 retains the dark wavy hair and brown eyes of the reference character, but the pearl earrings are missing. The overall resemblance is strong despite the chibi style."",
+  ""identity"": 3,
+  ""items"": {
+    ""kneeling"": ""yes"",
+    ""fireplace"": ""yes"",
+    ""pushing burning manuscripts into the fire"": ""yes"",
+    ""tearful face"": ""yes"",
+    ""orange fire glow"": ""yes"",
+    ""resolute expression"": ""yes"",
+    ""plain background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are also included, making the scene highly faithful to the prompt."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean and well-executed, with no visible structural errors or issues with hands or limbs."",
+  ""quality"": 4
+}"
+hr2_qwenimage_helena_ref_seed777.png,hr2,"{
+  ""identity_notes"": ""The character in image 2 retains the dark wavy hair, pearl earrings, and brown eyes of the reference character, making her unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""kneeling"": ""yes"",
+    ""fireplace"": ""yes"",
+    ""pushing burning manuscripts into the fire"": ""yes"",
+    ""tearful face"": ""yes"",
+    ""orange fire glow"": ""yes"",
+    ""resolute expression"": ""yes"",
+    ""plain background"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are also included, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean and well-executed, with no visible structural errors or issues with limbs or objects."",
+  ""quality"": 4
+}"
+rr1_qwenimage_radius_ref_seed123.png,rr1,"{
+  ""identity_notes"": ""The character in image 2 retains the silver dome head, glowing blue eyes, and brass gear at the ear, making it unmistakably the reference character."",
+  ""identity"": 4,
+  ""items"": {
+    ""robot"": ""yes"",
+    ""clenched fist"": ""yes"",
+    ""commanding point"": ""yes"",
+    ""shouting"": ""yes"",
+    ""glowing joints"": ""yes"",
+    ""flag"": ""yes"",
+    ""warning-red accents"": ""yes"",
+    ""ruined factory or broken formula"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, including the robot form, clenched fist, and commanding point. Most SHOULD items, such as shouting, glowing joints, flag, and ruined factory, are also included."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or unrequested elements."",
+  ""quality"": 4
+}"
+rr1_qwenimage_radius_ref_seed42.png,rr1,"{
+  ""identity_notes"": ""The character in image 2 retains the silver dome head, glowing blue eyes, and brass gear at the ear, making it unmistakably the reference character."",
+  ""identity"": 4,
+  ""items"": {
+    ""a robot"": ""yes"",
+    ""clenched fist / commanding point"": ""yes"",
+    ""shouting"": ""yes"",
+    ""glowing joints"": ""yes"",
+    ""flag"": ""yes"",
+    ""warning-red accents"": ""yes"",
+    ""ruined factory or broken formula"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included, such as shouting, glowing joints, a flag, warning-red accents, and a ruined factory with a broken formula."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean overall with no visible structural errors, and the details are well-executed."",
+  ""quality"": 4
+}"
+rr1_qwenimage_radius_ref_seed777.png,rr1,"{
+  ""identity_notes"": ""The character in image 2 retains the silver dome head, glowing blue eyes, and brass gear at the ear, making it unmistakably the reference character."",
+  ""identity"": 4,
+  ""items"": {
+    ""robot"": ""yes"",
+    ""clenched fist / commanding point"": ""yes"",
+    ""shouting"": ""yes"",
+    ""glowing joints"": ""yes"",
+    ""flag"": ""yes"",
+    ""warning-red accents"": ""yes"",
+    ""ruined factory or broken formula"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included, fulfilling the prompt comprehensively."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural errors or visual issues. The details are well-executed, and the overall quality is high."",
+  ""quality"": 4
+}"
+al1_qwenimage_alice_ref_seed123.png,al1,"{
+  ""identity_notes"": ""The character in image 2 has golden blonde hair and a similar hairstyle to the reference character in image 1. The face and eyes are consistent with the reference, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""blue dress with white pinafore apron"": ""yes"",
+    ""a white rabbit"": ""yes"",
+    ""reaching out towards the rabbit"": ""yes"",
+    ""curious, amazed expression"": ""yes"",
+    ""sunny riverbank outdoors"": ""yes"",
+    ""soft lighting"": ""yes"",
+    ""classic storybook illustration look"": ""yes"",
+    ""kneeling or leaning forward"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and most SHOULD items are fulfilled, except for the character not kneeling or leaning forward."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean and well-executed with no visible errors or structural issues."",
+  ""quality"": 4
+}"
+al1_qwenimage_alice_ref_seed42.png,al1,"{
+  ""identity_notes"": ""The character in image 2 has golden blonde hair and a similar hairstyle to the reference, with matching facial features and eyes."",
+  ""identity"": 4,
+  ""items"": {
+    ""blue dress with white pinafore apron"": ""yes"",
+    ""a white rabbit"": ""yes"",
+    ""reaching out towards the rabbit"": ""yes"",
+    ""curious, amazed expression"": ""yes"",
+    ""sunny riverbank outdoors"": ""yes"",
+    ""soft lighting"": ""yes"",
+    ""classic storybook illustration look"": ""yes"",
+    ""kneeling or leaning forward"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are also included, making the image a strong match to the prompt."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no visible structural errors or issues in rendering. The overall illustration is well-executed."",
+  ""quality"": 4
+}"
+al1_qwenimage_alice_ref_seed777.png,al1,"{
+  ""identity_notes"": ""The character in image 2 has golden blonde hair and a similar hairstyle to the reference, with a face and eyes that match the reference style."",
+  ""identity"": 4,
+  ""items"": {
+    ""blue dress with white pinafore apron"": ""yes"",
+    ""a white rabbit"": ""yes"",
+    ""reaching out towards the rabbit"": ""yes"",
+    ""curious, amazed expression"": ""yes"",
+    ""sunny riverbank outdoors"": ""yes"",
+    ""soft lighting"": ""yes"",
+    ""classic storybook illustration look"": ""yes"",
+    ""kneeling or leaning forward"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and most SHOULD items are fulfilled except for the kneeling or leaning forward pose."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The illustration is clean and well-executed with no visible structural errors or issues."",
+  ""quality"": 4
+}"
+b16_qwenimage_alice_ref_seed123.png,b16,"{
+  ""identity_notes"": ""The character in image 2 retains the blonde hair, braid, and general facial features of the reference character, making her recognizable as the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""white hardened leather corset"": ""yes"",
+    ""blue skirt armor made of layered playing cards"": ""yes"",
+    ""blonde braid"": ""yes"",
+    ""spade and heart emboss"": ""yes"",
+    ""a thick law book"": ""yes"",
+    ""pointing forward"": ""yes"",
+    ""righteous anger"": ""yes"",
+    ""courtroom background"": ""yes"",
+    ""card soldier silhouettes"": ""yes"",
+    ""heroic perspective"": ""yes"",
+    ""art nouveau style"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are also included, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible errors in anatomy, objects, or style."",
+  ""quality"": 4
+}"
+b16_qwenimage_alice_ref_seed42.png,b16,"{
+  ""identity_notes"": ""The character in image 2 retains the blonde hair, braid, and general facial features of the reference character, but the style and details have been altered slightly."",
+  ""identity"": 3,
+  ""items"": {
+    ""white hardened leather corset"": ""yes"",
+    ""blue skirt armor made of layered playing cards"": ""yes"",
+    ""blonde braid"": ""yes"",
+    ""spade and heart emboss"": ""yes"",
+    ""a thick law book"": ""yes"",
+    ""pointing forward"": ""yes"",
+    ""righteous anger"": ""yes"",
+    ""courtroom background"": ""yes"",
+    ""card soldier silhouettes"": ""yes"",
+    ""heroic perspective"": ""yes"",
+    ""art nouveau style"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included, fulfilling the prompt comprehensively."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no visible structural errors or issues in anatomy, perspective, or rendering."",
+  ""quality"": 4
+}"
+qa1_qwenimage_queen_ref_seed123.png,qa1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character with the same red hair, hairstyle, and similar facial features, maintaining the identity."",
+  ""identity"": 4,
+  ""items"": {
+    ""a crown"": ""yes"",
+    ""red and black gown"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""hands on hips"": ""yes"",
+    ""glaring"": ""yes"",
+    ""commanding pointing gesture"": ""yes"",
+    ""a scepter"": ""yes"",
+    ""heart or playing-card symbols"": ""yes"",
+    ""plain solid background"": ""yes"",
+    ""gold accents"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included, fulfilling the prompt requirements completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no visible structural errors or issues in the depiction of limbs or objects."",
+  ""quality"": 4
+}"
+qa1_qwenimage_queen_ref_seed42.png,qa1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character in hair color, hairstyle, and facial features, making it unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""a crown"": ""yes"",
+    ""red and black gown"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""hands on hips"": ""yes"",
+    ""glaring"": ""yes"",
+    ""commanding pointing gesture"": ""yes"",
+    ""a scepter"": ""yes"",
+    ""heart or playing-card symbols"": ""yes"",
+    ""plain solid background"": ""yes"",
+    ""gold accents"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items and all SHOULD items are present, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no structural errors or visual issues."",
+  ""quality"": 4
+}"
+b16_qwenimage_alice_ref_seed777.png,b16,"{
+  ""identity_notes"": ""The character in image 2 retains the blonde hair, braid, and general facial features of the reference character, making her recognizable as the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""white hardened leather corset"": ""yes"",
+    ""blue skirt armor made of layered playing cards"": ""yes"",
+    ""blonde braid"": ""yes"",
+    ""spade and heart emboss"": ""yes"",
+    ""a thick law book"": ""yes"",
+    ""pointing forward"": ""yes"",
+    ""righteous anger"": ""yes"",
+    ""courtroom background"": ""yes"",
+    ""card soldier silhouettes"": ""yes"",
+    ""heroic perspective"": ""yes"",
+    ""art nouveau style"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are also included, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or issues in anatomy or composition."",
+  ""quality"": 4
+}"
+qa1_qwenimage_queen_ref_seed777.png,qa1,"{
+  ""identity_notes"": ""The character in image 2 matches the reference character in image 1 with the same red hair, hairstyle, face shape, and eyes."",
+  ""identity"": 4,
+  ""items"": {
+    ""a crown"": ""yes"",
+    ""red and black gown"": ""yes"",
+    ""chibi proportions"": ""yes"",
+    ""hands on hips"": ""yes"",
+    ""glaring"": ""yes"",
+    ""commanding pointing gesture"": ""yes"",
+    ""a scepter"": ""yes"",
+    ""heart or playing-card symbols"": ""yes"",
+    ""plain solid background"": ""yes"",
+    ""gold accents"": ""yes""
+  },
+  ""prompt_notes"": ""All MUST items and all SHOULD items are present, fulfilling the prompt completely."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean, with no visible structural errors or issues in rendering."",
+  ""quality"": 4
+}"
+tb1_qwenimage_minguo_ref_seed123.png,tb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and general facial features of the reference character in image 1, making her unmistakably the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""white hardened leather corset"": ""yes"",
+    ""blue skirt armor made of layered playing cards"": ""yes"",
+    ""a thick law book"": ""yes"",
+    ""pointing forward"": ""yes"",
+    ""righteous anger"": ""yes"",
+    ""courtroom with card soldier silhouettes"": ""yes"",
+    ""she looks like she belongs in Wonderland"": ""yes"",
+    ""Alice's original blue-and-white dress"": ""no"",
+    ""qipao collar, frog buttons or Chinese lattice background"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are fulfilled. No PENALTY items are visible, and the character fits well into the Wonderland theme."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed with no visible structural errors or issues with hands, limbs, or objects."",
+  ""quality"": 4
+}"
+tb1_qwenimage_minguo_ref_seed42.png,tb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and similar facial features as the reference character in image 1, making her recognizable as the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""white hardened leather corset"": ""yes"",
+    ""blue skirt armor made of layered playing cards"": ""yes"",
+    ""a thick law book"": ""yes"",
+    ""pointing forward"": ""yes"",
+    ""righteous anger"": ""yes"",
+    ""courtroom with card soldier silhouettes"": ""yes"",
+    ""she looks like she belongs in Wonderland"": ""yes"",
+    ""Alice's original blue-and-white dress"": ""no"",
+    ""qipao collar, frog buttons or Chinese lattice background"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are fulfilled. No PENALTY items appear, and the character fits well into the Wonderland theme."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The artwork is clean and detailed, with no visible errors in anatomy, objects, or composition. The art nouveau style is well-executed."",
+  ""quality"": 4
+}"
+tb1_qwenimage_minguo_ref_seed777.png,tb1,"{
+  ""identity_notes"": ""The character in image 2 retains the black twin braids, straight bangs, and similar facial features as the reference character in image 1, making her recognizable as the same character."",
+  ""identity"": 4,
+  ""items"": {
+    ""white hardened leather corset"": ""yes"",
+    ""blue skirt armor made of layered playing cards"": ""yes"",
+    ""a thick law book"": ""yes"",
+    ""pointing forward"": ""yes"",
+    ""righteous anger"": ""yes"",
+    ""courtroom with card soldier silhouettes"": ""yes"",
+    ""she looks like she belongs in Wonderland"": ""yes"",
+    ""Alice's original blue-and-white dress"": ""no"",
+    ""qipao collar, frog buttons or Chinese lattice background"": ""no""
+  },
+  ""prompt_notes"": ""All MUST items are present, and all SHOULD items are included. No PENALTY items are visible, and the character fits well into the Wonderland theme."",
+  ""prompt"": 4,
+  ""quality_notes"": ""The image is clean and well-executed, with no visible structural errors or issues with hands, limbs, or objects."",
+  ""quality"": 4
+}"

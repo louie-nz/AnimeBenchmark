@@ -1,0 +1,13 @@
+﻿file,group,model,ref_cond,seed,head_found,head_score,head_box,clip_i,dino_i
+al1_anythingv5_ipadapter_alice_noref_seed123.png,al1,anythingv5_ipadapter,noref,123,1,0.379,"[261, 80, 385, 218]",0.6087,0.541
+al1_anythingv5_ipadapter_alice_noref_seed42.png,al1,anythingv5_ipadapter,noref,42,1,0.49,"[187, 54, 355, 235]",0.6178,0.5858
+al1_anythingv5_ipadapter_alice_noref_seed777.png,al1,anythingv5_ipadapter,noref,777,1,0.691,"[176, 69, 341, 233]",0.6894,0.5816
+al1_anythingv5_ipadapter_alice_ref_seed123.png,al1,anythingv5_ipadapter,ref,123,1,0.535,"[184, 44, 390, 303]",0.7099,0.5706
+al1_anythingv5_ipadapter_alice_ref_seed42.png,al1,anythingv5_ipadapter,ref,42,1,0.375,"[82, 23, 420, 303]",0.7068,0.6427
+al1_anythingv5_ipadapter_alice_ref_seed777.png,al1,anythingv5_ipadapter,ref,777,1,0.594,"[146, 63, 364, 282]",0.6549,0.6368
+al1_flux2klein4b_alice_noref_seed123.png,al1,flux2klein4b,noref,123,1,0.371,"[332, 143, 589, 356]",0.6792,0.5923
+al1_flux2klein4b_alice_noref_seed42.png,al1,flux2klein4b,noref,42,1,0.38,"[254, 137, 561, 394]",0.6573,0.5331
+al1_flux2klein4b_alice_noref_seed777.png,al1,flux2klein4b,noref,777,1,0.388,"[392, 140, 591, 340]",0.6763,0.6416
+al1_flux2klein4b_alice_ref_seed123.png,al1,flux2klein4b,ref,123,1,0.388,"[349, 132, 598, 359]",0.745,0.5352
+al1_flux2klein4b_alice_ref_seed42.png,al1,flux2klein4b,ref,42,1,0.429,"[289, 124, 589, 369]",0.6701,0.5852
+al1_flux2klein4b_alice_ref_seed777.png,al1,flux2klein4b,ref,777,1,0.376,"[403, 135, 589, 322]",0.7585,0.6866
